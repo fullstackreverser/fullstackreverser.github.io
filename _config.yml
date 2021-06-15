@@ -80,7 +80,7 @@ img_cdn: ''
 avatar: https://i.imgur.com/a1WIxpw.png
 
 # boolean type, the global switch for ToC in posts.
-toc: false
+toc: true
 
 disqus:
   comments: true  # boolean type, the global switch for posts comments.
