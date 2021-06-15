@@ -3,7 +3,7 @@ title: Become a Full-Stack Reverse-engineer(In only 3 short years)
 date: 2021-06-15 09:00:00 +0900
 categories: [Reversing]
 tags: [reverser, reversing, fullstackreverseengineer, fullstackreverser]     # TAG names should always be lowercase
-hidden: false
+published: true
 ---
 
 # Become a Full-Stack Reverse-engineer(In only 3 short years)
