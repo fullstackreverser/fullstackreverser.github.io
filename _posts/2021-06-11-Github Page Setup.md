@@ -6,18 +6,5 @@ tags: [github, page]     # TAG names should always be lowercase
 published: false
 ---
 
-# Github page build up
-
-# Theme
-[Chirpy](http://jekyllthemes.org/themes/jekyll-theme-chirpy/)
-
-# My Environments
-OS: Windows + WSL2 (Ubuntu 20.04 LTS)
-Editor: Visual Code (WSL Remote)
-
-# Todo
-- DNS setting
-  - fullstackreverser.github.io takedown
-- Google Aanalytic
-- Post ToC
-- Disqus
+# Notion Landing Page
+https://www.notion.so/noshawn/POST-5aab76b82a904d1b88fb206495933a13

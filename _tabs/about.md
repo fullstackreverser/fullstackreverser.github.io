@@ -4,5 +4,8 @@ icon: fas fa-info
 order: 4
 ---
 
+Thanks for being here, I hope my posts are being helpful to you.
 
-> **Note**: Add Markdown syntax content to file `_tabs/about.md` and it will show up on this page.
+For questions contact me on ZnVsbHN0YWNrcmV2ZXJzZXJAZ21haWwuY29t.
+
+Full Stack Reverser
