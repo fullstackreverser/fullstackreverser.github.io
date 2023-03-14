@@ -20,7 +20,7 @@ We should enable the Developer menu in Ribbon options.
 
 - File → Options → Customize Ribbon → Customize the Ribbons → Check to Developer
 
-![20230110-1](../assets/img/posts/2023-01-10/20230110-1.png)
+![20230110-1](/assets/img/posts/2023-01-10/20230110-1.png)
 
 
 # Attach to Excel.exe through x64dbg
@@ -32,7 +32,7 @@ To overcome these hurdles, we must prepare as follows.
 - Disable DEP in Windows
 - x64dbg Anti-Anti-Debug plugin: [ScyllaHide](https://github.com/x64dbg/ScyllaHide), [TitanHide](https://github.com/mrexodia/TitanHide)
 
-![20230110-2](../assets/img/posts/2023-01-10/20230110-2.png)
+![20230110-2](/assets/img/posts/2023-01-10/20230110-2.png)
 
 
 After that, you won’t see any unintened exceptions.
@@ -43,4 +43,4 @@ I recommend opening with a debugger to get full right from the debugged. and it'
 
 Then, we can test many codes under x64dbg. VBA doesn't comfortable for debugging. It hasn't full debugging options and the pointer fundamental. so, this task is more helpful to your explorer.
 
-![20230110-3](../assets/img/posts/2023-01-10/20230110-3.png)
+![20230110-3](/assets/img/posts/2023-01-10/20230110-3.png)
