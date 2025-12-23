@@ -3,7 +3,7 @@ title: How to start debugging JS file
 date: 2023-03-14 22:01:23 +0900
 categories: [Reversing, vba]
 tags: [vba, wscript, visualstudio, debugger]     # TAG names should always be lowercase
-published: false
+published: true
 ---
 
 This section explains how to debug WSH(Windows Script Host) operating stand-alone on the desktop.
