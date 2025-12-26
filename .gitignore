@@ -17,3 +17,6 @@ Gemfile.lock
 node_modules
 package-lock.json
 
+.cache/
+!.cache/seen.json
+!.cache/.gitkeep
