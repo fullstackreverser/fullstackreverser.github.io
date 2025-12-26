@@ -172,3 +172,42 @@ published: true
 - [중국 ‘콰이쇼우’, AI 기반 사이버 공격으로 라이브 스트리밍 마비... 서구권 배후설 제기](http://www.boannews.com/media/view.asp?idx=141173&kind=&sub_kind=) — Fri, 26 Dec 2025 10:54:00 +0900
 - [상반기 수사기관 통신이용자정보 요청, 전년 대비 10% 늘어](http://www.boannews.com/media/view.asp?idx=141174&kind=&sub_kind=) — Fri, 26 Dec 2025 10:49:00 +0900
 - [[양자와 보안] “단 4개 큐비트로 해킹 잡는다” 美 존스홉킨스 연구진, 소형 양자 칩 보안 시스템 개발](http://www.boannews.com/media/view.asp?idx=141172&kind=&sub_kind=) — Fri, 26 Dec 2025 10:23:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [My insulin pump controller uses the Linux kernel. It also violates the GPL](https://old.reddit.com/r/linux/comments/1puojsr/the_device_that_controls_my_insulin_pump_uses_the/) — Fri, 26 Dec 2025 19:13:22 +0000
+- [Rob Pike got spammed with an AI slop "act of kindness"](https://simonwillison.net/2025/Dec/26/slop-acts-of-kindness/) — Fri, 26 Dec 2025 18:42:13 +0000
+- [FFmpeg has issued a DMCA takedown on GitHub](https://twitter.com/FFmpeg/status/2004599109559496984) — Fri, 26 Dec 2025 17:48:25 +0000
+- [How uv got so fast](https://nesbitt.io/2025/12/26/how-uv-got-so-fast.html) — Fri, 26 Dec 2025 17:13:07 +0000
+- [Experts explore new mushroom which causes fairytale-like hallucinations](https://nhmu.utah.edu/articles/experts-explore-new-mushroom-which-causes-fairytale-hallucinations) — Fri, 26 Dec 2025 17:07:53 +0000
+- [Rob Pike goes nuclear over GenAI](https://skyview.social/?url=https%3A%2F%2Fbsky.app%2Fprofile%2Frobpike.io%2Fpost%2F3matwg6w3ic2s&viewtype=tree) — Fri, 26 Dec 2025 14:08:47 +0000
+- [Package managers keep using Git as a database, it never works out](https://nesbitt.io/2025/12/24/package-managers-keep-using-git-as-a-database.html) — Fri, 26 Dec 2025 12:46:36 +0000
+- [ChatGPT conversations still lack timestamps after years of requests](https://community.openai.com/t/timestamps-for-chats-in-chatgpt/440107?page=3) — Fri, 26 Dec 2025 12:39:32 +0000
+- [I'm a laptop weirdo and that's why I like my new Framework 13](https://blog.matthewbrunelle.com/im-a-laptop-weirdo-and-thats-why-i-like-my-new-framework-13/) — Fri, 26 Dec 2025 12:27:19 +0000
+- [TurboDiffusion: 100–200× Acceleration for Video Diffusion Models](https://github.com/thu-ml/TurboDiffusion) — Fri, 26 Dec 2025 03:19:49 +0000
+- [MiniMax M2.1: Built for Real-World Complex Tasks, Multi-Language Programming](https://www.minimaxi.com/news/minimax-m21) — Fri, 26 Dec 2025 01:02:53 +0000
+- [Ask HN: What skills do you want to develop or improve in 2026?](https://news.ycombinator.com/item?id=46385197) — Thu, 25 Dec 2025 16:08:57 +0000
+
+### BleepingComputer
+
+- [Fake GrubHub emails promise tenfold return on sent cryptocurrency](https://www.bleepingcomputer.com/news/security/fake-grubhub-emails-promise-tenfold-return-on-sent-cryptocurrency/) — Fri, 26 Dec 2025 15:22:28 -0500
+- [Trust Wallet confirms extension hack led to $7 million crypto theft](https://www.bleepingcomputer.com/news/security/trust-wallet-confirms-extension-hack-led-to-7-million-crypto-theft/) — Fri, 26 Dec 2025 04:47:08 -0500
+- [MongoDB warns admins to patch severe vulnerability immediately](https://www.bleepingcomputer.com/news/security/mongodb-warns-admins-to-patch-severe-vulnerability-immediately/) — Wed, 24 Dec 2025 09:18:36 -0500
+
+### Darkreading
+
+- [Mentorship and Diversity: Shaping the Next Generation of Cyber Experts](https://www.darkreading.com/cybersecurity-careers/mentorship-and-diversity-shaping-the-next-generation-of-cyber-experts) — Fri, 26 Dec 2025 15:15:00 GMT
+- [As More Coders Adopt AI Agents, Security Pitfalls Lurk in 2026](https://www.darkreading.com/application-security/coders-adopt-ai-agents-security-pitfalls-lurk-2026) — Fri, 26 Dec 2025 13:04:07 GMT
+
+### The Hacker News
+
+- [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html) — Fri, 26 Dec 2025 21:01:00 +0530
+- [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html) — Fri, 26 Dec 2025 20:14:00 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [오픈AI “프롬프트 인젝션, 장기 보안 과제…완전한 해결책 보장 어렵다”](https://www.dailysecu.com/news/articleView.html?idxno=203808) — 2025-12-26 16:13:37
+- [아마존, ‘북한 IT 원격취업 사기’ 의심 지원자 1,800명 차단…“올해 분기별 지원 27% 증가”](https://www.dailysecu.com/news/articleView.html?idxno=203801) — 2025-12-26 15:29:19
+- [조사 중 사안 일방적 공개한 쿠팡, 퇴직자 일탈로 좁히려는가…쿠팡 유출 사태, 내부통제 허점이 본질](https://www.dailysecu.com/news/articleView.html?idxno=203809) — 2025-12-26 16:37:48
