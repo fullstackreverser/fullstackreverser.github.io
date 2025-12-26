@@ -196,3 +196,9 @@ published: true
 
 - [케이사인, 국내 최초 OCPP 기반 프로토콜 퍼저 개발... 전기차 충전 인프라 취약점 사전 점검](http://www.boannews.com/media/view.asp?idx=141176&kind=&sub_kind=) — Fri, 26 Dec 2025 13:14:00 +0900
 - [“문서 포맷 그대로 비식별”... 이지서티, AI 시대 개인정보 비식별 솔루션 제시](http://www.boannews.com/media/view.asp?idx=141177&kind=&sub_kind=) — Fri, 26 Dec 2025 13:12:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### 보안뉴스 > SECURITY
+
+- [[쿠팡 해킹] 경찰, 쿠팡 ‘셀프 조사’  재검증... “살인사건 시체 옮긴거나 마찬가지”](http://www.boannews.com/media/view.asp?idx=141178&kind=&sub_kind=) — Fri, 26 Dec 2025 13:34:00 +0900
