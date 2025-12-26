@@ -202,3 +202,17 @@ published: true
 ### 보안뉴스 > SECURITY
 
 - [[쿠팡 해킹] 경찰, 쿠팡 ‘셀프 조사’  재검증... “살인사건 시체 옮긴거나 마찬가지”](http://www.boannews.com/media/view.asp?idx=141178&kind=&sub_kind=) — Fri, 26 Dec 2025 13:34:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [Google is 'gradually rolling out' option to change your gmail.com address](https://9to5google.com/2025/12/24/google-change-gmail-addresses/) — Thu, 25 Dec 2025 21:36:48 +0000
+
+### 데일리시큐 - 최근인기기사
+
+- [몽고DB, CVE-2025-14847 긴급 패치 권고…zlib 압축 처리 결함으로 “사전 인증” 메모리 유출 위험](https://www.dailysecu.com/news/articleView.html?idxno=203786) — 2025-12-26 13:10:36
+
+### 보안뉴스 > SECURITY
+
+- [박동균 대구한의대 교수 ‘대한민국 치안리포트’ 북 콘서트 성료](http://www.boannews.com/media/view.asp?idx=141180&kind=&sub_kind=) — Fri, 26 Dec 2025 14:03:00 +0900
