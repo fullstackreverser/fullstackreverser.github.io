@@ -2,8 +2,8 @@ name: Daily security feeds
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
-    # - cron: "0 23 * * *"  # UTC 기준. 한국시간 오전 8시 = UTC 23시
+    # - cron: "*/5 * * * *"
+    - cron: "0 23 * * *"  # UTC 기준. 한국시간 오전 8시 = UTC 23시
   workflow_dispatch: {}
 
 permissions:

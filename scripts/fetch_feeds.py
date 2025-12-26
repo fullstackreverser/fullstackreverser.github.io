@@ -57,7 +57,7 @@ def main():
 
     # 하루에 1개 포스트로 묶기(권장). 원하면 엔트리마다 1포스트로 바꿀 수도 있음.
     title = f"Daily Security Feed - {today}"
-    filename = f"daily-security-feed-{today}.md"
+    filename = f"{today}-daily-security-feed.md"
     path = POSTS / filename
 
     lines = []
@@ -83,10 +83,6 @@ def main():
             continue
         lines.append(f"### {source}\n")
         for e in grouped[source]:
-
-    # for source in sorted(grouped.keys()):
-    #     lines.append(f"### {source}\n")
-    #     for e in grouped[source]:
             t = getattr(e, "title", "Untitled")
             link = getattr(e, "link", "")
             published = getattr(e, "published", "") or getattr(e, "updated", "")
