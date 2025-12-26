@@ -228,3 +228,9 @@ published: true
 ### Hacker News: Best
 
 - [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/) — Fri, 26 Dec 2025 00:29:40 +0000
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o) — Fri, 26 Dec 2025 05:27:05 +0000
