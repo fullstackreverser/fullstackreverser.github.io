@@ -181,3 +181,18 @@ published: true
 
 - [이지서티, "생성형 AI 시대 고객 성공 보장하는 개인정보 비식별 솔루션 완벽 지원"](https://www.dailysecu.com/news/articleView.html?idxno=203782) — 2025-12-26 12:06:56
 - [[보안칼럼] 보이지 않는 인터넷의 절반, 그리고 우리가 놓치고 있는 공격 측면](https://www.dailysecu.com/news/articleView.html?idxno=203783) — 2025-12-26 12:23:09
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [Fahrplan – 39C3](https://fahrplan.events.ccc.de/congress/2025/fahrplan/) — Thu, 25 Dec 2025 18:40:14 +0000
+
+### 데일리시큐 - 최근인기기사
+
+- [쿠팡 사태 대응 점검한 관계장관회의…플랫폼 정보유출 재발 방지 제도개선 착수](https://www.dailysecu.com/news/articleView.html?idxno=203784) — 2025-12-26 12:38:49
+
+### 보안뉴스 > SECURITY
+
+- [케이사인, 국내 최초 OCPP 기반 프로토콜 퍼저 개발... 전기차 충전 인프라 취약점 사전 점검](http://www.boannews.com/media/view.asp?idx=141176&kind=&sub_kind=) — Fri, 26 Dec 2025 13:14:00 +0900
+- [“문서 포맷 그대로 비식별”... 이지서티, AI 시대 개인정보 비식별 솔루션 제시](http://www.boannews.com/media/view.asp?idx=141177&kind=&sub_kind=) — Fri, 26 Dec 2025 13:12:00 +0900
