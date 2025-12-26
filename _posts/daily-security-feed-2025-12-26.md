@@ -246,3 +246,9 @@ published: true
 ### 보안뉴스 > SECURITY
 
 - [[쿠팡 해킹] 쿠팡, 유출자 접촉과 기기 회수는 “정부 지시 따른 것”](http://www.boannews.com/media/view.asp?idx=141183&kind=&sub_kind=) — Fri, 26 Dec 2025 17:22:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### BleepingComputer
+
+- [Trust Wallet Chrome extension hack tied to millions in losses](https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/) — Fri, 26 Dec 2025 04:47:08 -0500
