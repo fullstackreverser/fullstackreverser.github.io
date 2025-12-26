@@ -170,3 +170,14 @@ published: true
 - [[쿠팡 해킹] 쿠팡, 셀프 조사 결과 발표했지만... 더 강경해진 정부 “범부처TF 확대 운영”](http://www.boannews.com/media/view.asp?idx=141169&kind=&sub_kind=) — Thu, 25 Dec 2025 21:51:00 +0900
 - [남미 위협 그룹 ‘블라인드이글’, 콜롬비아 정부망 침투](http://www.boannews.com/media/view.asp?idx=141159&kind=&sub_kind=) — Thu, 25 Dec 2025 19:04:00 +0900
 - [[부고] 어승룡 인더스트리뉴스 광고국장 부친상](http://www.boannews.com/media/view.asp?idx=141168&kind=&sub_kind=) — Thu, 25 Dec 2025 19:00:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [Avoid Mini-Frameworks](https://laike9m.com/blog/avoid-mini-frameworks,171/) — Wed, 24 Dec 2025 12:04:02 +0000
+
+### 데일리시큐 - 최근인기기사
+
+- [이지서티, "생성형 AI 시대 고객 성공 보장하는 개인정보 비식별 솔루션 완벽 지원"](https://www.dailysecu.com/news/articleView.html?idxno=203782) — 2025-12-26 12:06:56
+- [[보안칼럼] 보이지 않는 인터넷의 절반, 그리고 우리가 놓치고 있는 공격 측면](https://www.dailysecu.com/news/articleView.html?idxno=203783) — 2025-12-26 12:23:09
