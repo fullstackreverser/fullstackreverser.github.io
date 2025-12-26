@@ -252,3 +252,9 @@ published: true
 ### BleepingComputer
 
 - [Trust Wallet Chrome extension hack tied to millions in losses](https://www.bleepingcomputer.com/news/security/trust-wallet-chrome-extension-hack-tied-to-millions-in-losses/) — Fri, 26 Dec 2025 04:47:08 -0500
+
+## Security Feed Digest (2025-12-26)
+
+### The Hacker News
+
+- [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html) — Fri, 26 Dec 2025 14:57:00 +0530
