@@ -234,3 +234,9 @@ published: true
 ### Hacker News: Best
 
 - [Rob Pike Goes Nuclear over GenAI](https://imgur.com/nUJCI3o) — Fri, 26 Dec 2025 05:27:05 +0000
+
+## Security Feed Digest (2025-12-26)
+
+### 보안뉴스 > SECURITY
+
+- [블로세이프, 세계 최대 스테이블코인사 ‘서클’과 맞손](http://www.boannews.com/media/view.asp?idx=141181&kind=&sub_kind=) — Fri, 26 Dec 2025 15:57:00 +0900
