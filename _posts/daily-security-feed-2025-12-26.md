@@ -216,3 +216,9 @@ published: true
 ### 보안뉴스 > SECURITY
 
 - [박동균 대구한의대 교수 ‘대한민국 치안리포트’ 북 콘서트 성료](http://www.boannews.com/media/view.asp?idx=141180&kind=&sub_kind=) — Fri, 26 Dec 2025 14:03:00 +0900
+
+## Security Feed Digest (2025-12-26)
+
+### 데일리시큐 - 최근인기기사
+
+- [블로세이프, ‘세계 3위 해커’ 보안력 앞세워 글로벌 스테이블코인 제왕 ‘서클(Circle)’과 전략적 동맹](https://www.dailysecu.com/news/articleView.html?idxno=203785) — 2025-12-26 12:49:40
