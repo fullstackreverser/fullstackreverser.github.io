@@ -222,3 +222,9 @@ published: true
 ### 데일리시큐 - 최근인기기사
 
 - [블로세이프, ‘세계 3위 해커’ 보안력 앞세워 글로벌 스테이블코인 제왕 ‘서클(Circle)’과 전략적 동맹](https://www.dailysecu.com/news/articleView.html?idxno=203785) — 2025-12-26 12:49:40
+
+## Security Feed Digest (2025-12-26)
+
+### Hacker News: Best
+
+- [Seven Diabetes Patients Die Due to Undisclosed Bug in Abbott's Glucose Monitors](https://sfconservancy.org/blog/2025/dec/23/seven-abbott-freestyle-libre-cgm-patients-dead/) — Fri, 26 Dec 2025 00:29:40 +0000
