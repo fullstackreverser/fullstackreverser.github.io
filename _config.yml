@@ -162,5 +162,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/
-    category: /categories/:name/
+    tag: /tags/:year/:month/:day/:name/
+    category: /categories/:year/:month/:day/:name/
