@@ -2,7 +2,7 @@
 title: FLARE-On 12 Challenge Solving [#1 Drill Baby Drill!]
 date: 2026-01-11 14:37:29 +0900
 categories: [Challenge, flare-on]
-tags: [flare-on 12]     # TAG names should always be lowercase
+tags: [flare-on, flare-on-12, reverse-engineering, malware-analysis, xor, bruteforce]     # TAG names should always be lowercase
 published: true
 ---
 
@@ -73,7 +73,7 @@ Result: `19^5 = 2,476,099`.
 Apply an 8-bit right shift to the maximum `bear_sum` to obtain the key upper bound.
 
 ```bash
->>> 2476099 >> 8
+> 2476099 >> 8
 9672
 ```
 
