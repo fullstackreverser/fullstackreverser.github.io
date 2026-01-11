@@ -1,7 +1,7 @@
 ---
 title: FLARE-On 12 Challenge Solving [#1 Drill Baby Drill!]
 date: 2026-01-11 14:37:29 +0900
-categories: [Challenge, flare-on]
+categories: [challenge, flare-on]
 tags: [flare-on, flare-on-12, reverse-engineering, malware-analysis, xor, bruteforce]     # TAG names should always be lowercase
 published: true
 ---

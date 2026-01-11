@@ -1,7 +1,7 @@
 ---
 title: How to start debugging JS file
 date: 2023-03-14 22:01:23 +0900
-categories: [Reversing, vba]
+categories: [reversing, vba]
 tags: [vba, wscript, visualstudio, debugger]     # TAG names should always be lowercase
 published: true
 ---

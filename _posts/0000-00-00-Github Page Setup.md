@@ -5,6 +5,8 @@ categories: [Tips, Blog]
 tags: [github, page]     # TAG names should always be lowercase
 published: false
 ---
+# blog domain
+https://fullstackreverser.com/
 
 # Notion Landing Page
 https://www.notion.so/noshawn/POST-5aab76b82a904d1b88fb206495933a13

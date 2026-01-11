@@ -1,7 +1,7 @@
 ---
 title: How to start debugging VBA in Excel
 date: 2023-01-10 17:06:11 +0900
-categories: [Reversing, vba]
+categories: [reversing, vba]
 tags: [vba, antidbugging, x64dbg]     # TAG names should always be lowercase
 published: true
 ---
