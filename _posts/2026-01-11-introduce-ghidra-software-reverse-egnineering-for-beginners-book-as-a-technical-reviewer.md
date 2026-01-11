@@ -1,7 +1,7 @@
 ---
 title: Introduce 'Ghidra Software Reverse-Egnineering for Beginners' book as a technical reviewer
 date: 2026-01-11 15:34:57 +0900
-categories: [reviews]
+categories: [Reviews, Books]
 tags: [ghidra, reverse-engineering, technical-review, packt, book-review, cybersecurity]     # TAG names should always be lowercase
 published: true
 ---
