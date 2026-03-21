@@ -137,3 +137,17 @@ published: true
   - **Matched TTPs:** Malware (T1588.001), Vulnerabilities (T1588.006), Server (T1584.004), Trap (T1546.005), Phishing (T1566), Social Media (T1593.001), Credentials (T1589.001)
 - [CISA Flags Actively Exploited Wing FTP Vulnerability Leaking Server Paths](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-wing-ftp.html) — Tue, 17 Mar 2026 10:53:00 +0530
   - **Matched TTPs:** Malware (T1588.001), Vulnerabilities (T1588.006), Server (T1584.004), Trap (T1546.005), Phishing (T1566), Lua (T1059.011), Software (T1592.002), Exploits (T1588.005), Social Media (T1593.001), Credentials (T1589.001), At (T1053.002)
+
+## Threat Hunt Feed (2026-03-21)
+
+### BleepingComputer
+
+- [Trivy vulnerability scanner breach pushed infostealer via GitHub Actions](https://www.bleepingcomputer.com/news/security/trivy-vulnerability-scanner-breach-pushed-infostealer-via-github-actions/) — Sat, 21 Mar 2026 13:30:41 -0400
+  - **Matched TTPs:** JavaScript (T1059.007), Malware (T1588.001), Hardware (T1592.001), Vulnerabilities (T1588.006), SSH (T1021.004), Private Keys (T1552.004), Server (T1584.004), Code Repositories (T1213.003), Shell History (T1552.003), Tool (T1588.002), Phishing (T1566), Software (T1592.002), Credentials (T1589.001), Python (T1059.006), Systemd Service (T1543.002), At (T1053.002)
+- [Microsoft Azure Monitor alerts abused for callback phishing attacks](https://www.bleepingcomputer.com/news/security/microsoft-azure-monitor-alerts-abused-in-callback-phishing-campaigns/) — Sat, 21 Mar 2026 10:09:19 -0400
+  - **Matched TTPs:** Malware (T1588.001), Hardware (T1592.001), Tool (T1588.002), Phishing (T1566), Software (T1592.002), At (T1053.002)
+
+### The Hacker News
+
+- [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html) — Sat, 21 Mar 2026 18:47:00 +0530
+  - **Matched TTPs:** Malware (T1588.001), Vulnerabilities (T1588.006), Server (T1584.004), Trap (T1546.005), Phishing (T1566), Social Media (T1593.001), Credentials (T1589.001), Messaging Applications (T1213.005)
