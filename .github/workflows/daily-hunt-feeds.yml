@@ -1,0 +1,44 @@
+name: Daily hunt feeds
+
+on:
+  schedule:
+    - cron: "30 23 * * *"  # UTC 기준. 한국시간 오전 8시 30분 = UTC 23시 30분
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          pip install feedparser pyyaml requests beautifulsoup4
+
+      - name: Fetch hunt feeds and generate post
+        run: |
+          python scripts/fetch_hunt_feeds.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add _posts .cache/hunt_seen.json
+            git commit -m "chore: daily hunt feed update"
+            git push
+          else
+            echo "No changes to commit."
+          fi

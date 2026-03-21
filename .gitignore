@@ -21,3 +21,5 @@ package-lock.json
 !.cache/
 !.cache/seen.json
 !.cache/.gitkeep
+
+CLAUDE.md
