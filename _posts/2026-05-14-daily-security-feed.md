@@ -87,3 +87,91 @@ published: true
 - [[2026 비식별화 솔루션 리포트] 지우는 데이터에서 활용하는 데이터로... 안전한 AI 거버넌스 이끈다](http://www.boannews.com/media/view.asp?idx=143580&kind=&sub_kind=) — Wed, 13 May 2026 11:53:00 +0900
 - [가비아 하이웍스, ‘그룹웨어 프리미엄’ 출시... “AI 문서 생성·공동편집·저장 한 흐름”](http://www.boannews.com/media/view.asp?idx=143602&kind=&sub_kind=) — Wed, 13 May 2026 10:58:00 +0900
 - [포티넷-엔비디아, 기업용 AI 보안 솔루션 ‘포티AI게이트’ 고도화](http://www.boannews.com/media/view.asp?idx=143600&kind=&sub_kind=) — Wed, 13 May 2026 10:38:00 +0900
+
+## Security Feed Digest (2026-05-14)
+
+### Hacker News: Best
+
+- [AI is making me dumb](https://jpain.io/god-damn-ai-is-making-me-dumb/) — Thu, 14 May 2026 18:19:28 +0000
+- [New Nginx Exploit](https://github.com/DepthFirstDisclosures/Nginx-Rift) — Thu, 14 May 2026 17:17:48 +0000
+- [Removing the modem and GPS from my 2024 RAV4 hybrid](https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/) — Thu, 14 May 2026 17:08:00 +0000
+- [RTX 5090 and M4 MacBook Air: Can It Game?](https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/) — Thu, 14 May 2026 15:47:31 +0000
+- [A message from President Kornbluth about funding and the talent pipeline](https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline) — Thu, 14 May 2026 14:51:14 +0000
+- [Bitcoin trader recovers wallet with help of Claude](https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup) — Thu, 14 May 2026 14:49:48 +0000
+- [USDA Projects Smallest US Wheat Harvest Since 1972 Due to Plains Drought](https://www.agweb.com/news/usda-projects-smallest-us-wheat-harvest-1972-due-plains-drought) — Thu, 14 May 2026 13:17:57 +0000
+- [Rewrite Bun in Rust has been merged](https://github.com/oven-sh/bun/pull/30412) — Thu, 14 May 2026 08:15:31 +0000
+- [Claude for Small Business](https://www.anthropic.com/news/claude-for-small-business) — Thu, 14 May 2026 03:59:35 +0000
+- [A Claude Code and Codex Skill for Deliberate Skill Development](https://github.com/DrCatHicks/learning-opportunities) — Thu, 14 May 2026 03:13:31 +0000
+- [Microsoft BitLocker – YellowKey zero-day exploit](https://www.tomshardware.com/tech-industry/cyber-security/microsoft-bitlocker-protected-drives-can-now-be-opened-with-just-some-files-on-a-usb-stick-yellowkey-zero-day-exploit-demonstrates-an-apparent-backdoor) — Thu, 14 May 2026 02:45:08 +0000
+- [Cisco workforce reductions](https://blogs.cisco.com/news/our-path-forward) — Thu, 14 May 2026 01:38:05 +0000
+- [Scorched Earth 2000 – Web](http://www.scorch2000.com/web/) — Thu, 14 May 2026 00:41:29 +0000
+- [Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing](https://news.ycombinator.com/item?id=48128003) — Wed, 13 May 2026 21:40:18 +0000
+- [Princeton mandates proctoring for in-person exams, upending 133 year precedent](https://www.dailyprincetonian.com/article/2026/05/princeton-news-adpol-proctoring-in-person-examinations-passed-faculty-133-years-precedent) — Wed, 13 May 2026 20:12:16 +0000
+- ["Not Medically Necessary": Helping America's Health Insurers Deny Coverage](https://www.propublica.org/article/evicore-health-insurance-denials-cigna-unitedhealthcare-aetna-prior-authorizations) — Wed, 13 May 2026 19:01:54 +0000
+- [MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble](https://www.jdhodges.com/blog/macbook-neo-benchmarks-analysis/) — Wed, 13 May 2026 18:30:51 +0000
+- [The US is winning the AI race where it matters most: commercialization](https://avkcode.github.io/blog/us-winning-ai-race.html) — Wed, 13 May 2026 13:53:53 +0000
+- [Dutch suicide prevention website shares data with tech companies without consent](https://nltimes.nl/2026/05/13/dutch-suicide-prevention-hotline-shares-visitor-data-tech-companies) — Wed, 13 May 2026 12:57:42 +0000
+- [SecurityBaseline.eu](https://internetcleanup.foundation/2026/05/european-governments-3000-tracking-sites-1000-phpmyadmins-and-99pct-poorly-encrypted-email-introducing-securitybaseline-eu/) — Wed, 13 May 2026 07:11:17 +0000
+- [The Emacsification of Software](https://sockpuppet.org/blog/2026/05/12/emacsification/) — Wed, 13 May 2026 07:06:14 +0000
+- [Kraftwerk's radical 1976 track](https://www.bbc.com/culture/article/20260511-kraftwerks-radical-1976-track-radioactivity-became-an-anti-nuclear-anthem) — Tue, 12 May 2026 23:13:01 +0000
+
+### BleepingComputer
+
+- [TeamPCP hackers advertise Mistral AI code repos for sale](https://www.bleepingcomputer.com/news/security/teampcp-hackers-advertise-mistral-ai-code-repos-for-sale/) — Thu, 14 May 2026 18:50:36 -0400
+- [Hackers exploit auth bypass flaw in Burst Statistics WordPress plugin](https://www.bleepingcomputer.com/news/security/hackers-exploit-auth-bypass-flaw-in-burst-statistics-wordpress-plugin/) — Thu, 14 May 2026 17:07:17 -0400
+- [Cisco warns of new critical SD-WAN flaw exploited in zero-day attacks](https://www.bleepingcomputer.com/news/security/cisco-warns-of-new-critical-sd-wan-flaw-exploited-in-zero-day-attacks/) — Thu, 14 May 2026 16:09:56 -0400
+- [OpenAI confirms security breach in TanStack supply chain attack](https://www.bleepingcomputer.com/news/security/openai-confirms-security-breach-in-tanstack-supply-chain-attack/) — Thu, 14 May 2026 15:07:24 -0400
+- [Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026](https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/) — Thu, 14 May 2026 14:53:50 -0400
+- [18-year-old NGINX vulnerability allows DoS, potential RCE](https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/) — Thu, 14 May 2026 11:43:41 -0400
+- [Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight](https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/) — Thu, 14 May 2026 11:21:32 -0400
+- [KongTuke hackers now use Microsoft Teams for corporate breaches](https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/) — Thu, 14 May 2026 08:12:40 -0400
+- [Dell confirms its SupportAssist software causes Windows BSOD crashes](https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/) — Thu, 14 May 2026 06:03:39 -0400
+- [US charges suspected Dream Market admin arrested in Germany](https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/) — Thu, 14 May 2026 04:55:46 -0400
+- [New Fragnesia Linux flaw lets attackers gain root privileges](https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/) — Thu, 14 May 2026 03:34:19 -0400
+
+### Darkreading
+
+- [SecurityScorecard Snags Driftnet to Level Up Threat Intelligence](https://www.darkreading.com/cyber-risk/securityscorecard-snags-driftnet-to-level-up-threat-intelligence) — Thu, 14 May 2026 20:57:27 GMT
+- [Maximum Severity Cisco SD-WAN Bug Exploited in the Wild](https://www.darkreading.com/vulnerabilities-threats/maximum-severity-cisco-sd-wan-bug-exploited) — Thu, 14 May 2026 20:25:31 GMT
+- ['FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine](https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine) — Thu, 14 May 2026 16:59:25 GMT
+- [AI Drives Cybersecurity Investments, Widening 'Valley of Death'](https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death) — Thu, 14 May 2026 13:00:00 GMT
+- [Foxconn Attack Highlights Manufacturing's Cyber Crisis](https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis) — Thu, 14 May 2026 12:00:00 GMT
+- [Checkbox Assessments Aren't Fit to Measure Risk](https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk) — Wed, 13 May 2026 21:17:07 GMT
+
+### The Hacker News
+
+- [Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access](https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html) — Thu, 14 May 2026 23:15:20 +0530
+- [Stealer Backdoor Found in 3 Node-IPC Versions Targeting Developer Secrets](https://thehackernews.com/2026/05/stealer-backdoor-found-in-3-node-ipc.html) — Thu, 14 May 2026 22:52:43 +0530
+- [ThreatsDay Bulletin: PAN-OS RCE, Mythos cURL Bug, AI Tokenizer Attacks, and 10+ Stories](https://thehackernews.com/2026/05/threatsday-bulletin-pan-os-rce-mythos.html) — Thu, 14 May 2026 21:37:46 +0530
+- [Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike](https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html) — Thu, 14 May 2026 19:30:37 +0530
+- [PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure](https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html) — Thu, 14 May 2026 17:10:14 +0530
+- [How AI Hallucinations Are Creating Real Security Risks](https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html) — Thu, 14 May 2026 17:00:00 +0530
+- [Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation](https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html) — Thu, 14 May 2026 14:55:50 +0530
+- [New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption](https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html) — Thu, 14 May 2026 12:36:15 +0530
+- [18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE](https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html) — Thu, 14 May 2026 11:30:09 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [노출된 API 키가 제미나이 비용 폭탄으로…구글 클라우드 과금 피해 확산](https://www.dailysecu.com/news/articleView.html?idxno=206736) — 2026-05-14 12:27:28
+- [“킴수키, AI 활용해 악성코드 개발 정황 포착“…한국 군·정부·방산 집중 공격](https://www.dailysecu.com/news/articleView.html?idxno=206731) — 2026-05-14 09:26:34
+- [마이크로소프트, 1분기 이메일 피싱 83억 건 탐지…링크 기반 공격이 전체 78%](https://www.dailysecu.com/news/articleView.html?idxno=206732) — 2026-05-14 09:38:43
+- [SKT·인크루트 개인정보 유출 후속점검 완료…개인정보위, 하반기 시정명령 점검 결과 공개](https://www.dailysecu.com/news/articleView.html?idxno=206735) — 2026-05-14 11:42:43
+- [개인정보위, 개인정보 유출한 보람상조 7개사 제재…과징금·과태료 5억5천만 원 부과](https://www.dailysecu.com/news/articleView.html?idxno=206734) — 2026-05-14 11:32:30
+- [“중소·중견기업 침해 대응 평균 106일”…랜섬웨어·정보유출 피해 집중, 제조업 피해 비중 47.4%](https://www.dailysecu.com/news/articleView.html?idxno=206728) — 2026-05-14 09:03:28
+- [샤이훌루드, 정상 패키지처럼 위장해 개발자 공격...npm·파이파이 공급망 공격 확산](https://www.dailysecu.com/news/articleView.html?idxno=206740) — 2026-05-14 16:33:08
+- [금융보안원, 금융권 AI 안전성·신뢰성 강화 세미나 개최](https://www.dailysecu.com/news/articleView.html?idxno=206726) — 2026-05-14 08:49:57
+- [사이냅소프트, AI 에이전트 위한 문서 데이터 정제 기술 세미나 개최](https://www.dailysecu.com/news/articleView.html?idxno=206737) — 2026-05-14 14:17:08
+- [락게이트코어, 로컬 LLM 기반 AI 보안점검 플랫폼 ‘모무스 AI’ 출시](https://www.dailysecu.com/news/articleView.html?idxno=206738) — 2026-05-14 14:15:11
+
+### 보안뉴스 > SECURITY
+
+- [강병탁 AI스페라 대표, “AI 시대 보안은 ‘운영’... 에이전트 CTEM 출격”](http://www.boannews.com/media/view.asp?idx=143627&kind=&sub_kind=) — Thu, 14 May 2026 18:15:00 +0900
+- [이번엔 마이크로소프트... 새 AI 보안 시스템 MDASH, 취약점 탐지 성적 미토스 넘어](http://www.boannews.com/media/view.asp?idx=143626&kind=&sub_kind=) — Thu, 14 May 2026 18:05:00 +0900
+- [AI 에이전트 시대의 보안... 팔로알토, 아이덴티티 보안 플랫폼 ‘이디라’(Idira) 출시](http://www.boannews.com/media/view.asp?idx=143624&kind=&sub_kind=) — Thu, 14 May 2026 15:37:00 +0900
+- [SK쉴더스 “중소기업 해킹 인지까지 106.1일... 야간 틈탄 랜섬웨어 기승”](http://www.boannews.com/media/view.asp?idx=143623&kind=&sub_kind=) — Thu, 14 May 2026 14:53:00 +0900
+- [“태권도 단증도 스마트폰에 쏙”... 국기원에 ‘옴니원 디지털 ID’ 공급](http://www.boannews.com/media/view.asp?idx=143621&kind=&sub_kind=) — Thu, 14 May 2026 14:29:00 +0900
+- [SKT, 해킹 후 CPO 관리·감독 강화... 사고 기업들 이행 결과 발표](http://www.boannews.com/media/view.asp?idx=143622&kind=&sub_kind=) — Thu, 14 May 2026 14:28:00 +0900
+- [한국재난안전산업협회, 기술발표회 통해 AI·데이터 기반 재난안전 기술 협력 본격화](http://www.boannews.com/media/view.asp?idx=143620&kind=&sub_kind=) — Thu, 14 May 2026 14:22:00 +0900
+- [한국특허정보원, 제10대 강병삼 신임 원장 취임](http://www.boannews.com/media/view.asp?idx=143619&kind=&sub_kind=) — Thu, 14 May 2026 14:10:00 +0900
+- [포티넷, 무선 AP 및 네트워크 운영체제 등 핵심 제품군 5종 ‘보안 패치’ 배포](http://www.boannews.com/media/view.asp?idx=143616&kind=&sub_kind=) — Thu, 14 May 2026 14:06:00 +0900
+- [개인정보 관리 소홀 보람상조, 5억4250만원 과징금 맞아](http://www.boannews.com/media/view.asp?idx=143617&kind=&sub_kind=) — Thu, 14 May 2026 14:01:00 +0900
