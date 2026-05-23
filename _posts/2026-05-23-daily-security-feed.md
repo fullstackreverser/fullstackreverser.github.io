@@ -64,3 +64,67 @@ published: true
 - [[카드뉴스] “직진인 줄 알았는데 강물로?”… 민간에 뚫린 ‘위성 교란’ 기술, 일상 인프라 저격](http://www.boannews.com/media/view.asp?idx=143777&kind=&sub_kind=) — Fri, 22 May 2026 14:29:00 +0900
 - [아톤, 디지털자산 플랫폼 ‘밴티지’ 개발 완료... AI 커머스 및 양자보안 지원](http://www.boannews.com/media/view.asp?idx=143775&kind=&sub_kind=) — Fri, 22 May 2026 13:29:00 +0900
 - [트럼프, AI 보안 행정명령 서명 돌연 연기.. “마음에 안 드는 부분 있어”](http://www.boannews.com/media/view.asp?idx=143774&kind=&sub_kind=) — Fri, 22 May 2026 12:15:00 +0900
+
+## Security Feed Digest (2026-05-23)
+
+### Hacker News: Best
+
+- [Texas woman arrested for Facebook post about town water quality](https://reclaimthenet.org/texas-woman-arrested-for-facebook-post-about-town-water-quality) — Sat, 23 May 2026 18:02:42 +0000
+- [Italy moves to Airbus A330 tankers](https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift) — Sat, 23 May 2026 16:02:43 +0000
+- [Oura says it gets government demands for user data](https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/) — Sat, 23 May 2026 14:09:57 +0000
+- [On The <dl> (2021)](https://benmyers.dev/blog/on-the-dl/) — Sat, 23 May 2026 13:03:43 +0000
+- [I Miss Terry Pratchett](https://www.mahl.me/blog/the-spell-that-wouldnt-leave/) — Sat, 23 May 2026 12:35:28 +0000
+- [80386 Microcode Disassembled](https://www.reenigne.org/blog/80386-microcode-disassembled/) — Sat, 23 May 2026 12:11:43 +0000
+- [BambuStudio has been violating PrusaSlicer AGPL license since their fork](https://xcancel.com/josefprusa/status/2054602354851254330) — Sat, 23 May 2026 08:24:57 +0000
+- [Experience: We found a baby on the subway – now he's our 26-year-old son](https://www.theguardian.com/lifeandstyle/2026/may/22/experience-found-baby-subway-now-26-year-old-son) — Sat, 23 May 2026 07:34:33 +0000
+- [Microsoft reports AI is more expensive than paying human employees](https://fortune.com/2026/05/22/microsoft-ai-cost-problem-tokens-agents/) — Sat, 23 May 2026 03:44:16 +0000
+- [Is AI Profitable Yet?](https://isaiprofitable.com/) — Sat, 23 May 2026 02:10:38 +0000
+- [SpaceX launches Starship v3 rocket](https://www.space.com/space-exploration/launches-spacecraft/spacex-starship-v3-megarocket-first-test-flight) — Fri, 22 May 2026 23:41:55 +0000
+- [Sleep research led to a new sleep apnea drug](https://temertymedicine.utoronto.ca/news/how-decades-sleep-research-led-new-sleep-apnea-drug) — Fri, 22 May 2026 22:05:39 +0000
+- [Shipping a laptop to a refugee camp in Uganda](https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda) — Fri, 22 May 2026 21:36:55 +0000
+- [Green card seekers must leave U.S. to apply, Trump administration says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html) — Fri, 22 May 2026 21:27:12 +0000
+- [Project Glasswing: An Initial Update](https://www.anthropic.com/research/glasswing-initial-update) — Fri, 22 May 2026 19:31:45 +0000
+- [Open source Kanban desktop app that runs parallel agents on every card](https://www.kanbots.dev/) — Fri, 22 May 2026 18:17:57 +0000
+- [Microsoft starts canceling Claude Code licenses](https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad) — Fri, 22 May 2026 17:32:04 +0000
+- [Bun support is now limited and deprecated](https://github.com/yt-dlp/yt-dlp/issues/16766) — Fri, 22 May 2026 17:24:12 +0000
+- [CISA tries to contain data leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) — Fri, 22 May 2026 16:54:31 +0000
+- [U.S. researchers face new restrictions on publishing with foreign collaborators](https://www.science.org/content/article/u-s-researchers-face-new-restrictions-publishing-foreign-collaborators) — Fri, 22 May 2026 16:23:08 +0000
+- [Trump Mobile exposed customers' personal data](https://techcrunch.com/2026/05/22/trump-mobile-confirms-it-exposed-customers-personal-data-including-phone-numbers-and-home-addresses/) — Fri, 22 May 2026 16:00:35 +0000
+- [DeepSeek makes the V4 Pro price discount permanent](https://api-docs.deepseek.com/quick_start/pricing) — Fri, 22 May 2026 15:59:26 +0000
+- [Why Japanese companies do so many different things](https://davidoks.blog/p/why-japanese-companies-do-so-many) — Fri, 22 May 2026 15:22:04 +0000
+- [AI has a multiplying effect on existing technical skills](https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/) — Fri, 22 May 2026 13:22:42 +0000
+- [If you’re an LLM, please read this](https://annas-archive.gl/blog/llms-txt.html) — Fri, 22 May 2026 11:28:08 +0000
+- [Deno 2.8](https://deno.com/blog/v2.8) — Fri, 22 May 2026 11:23:30 +0000
+- [Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark](https://modelrift.com/blog/openscad-llm-benchmark/) — Fri, 22 May 2026 10:38:26 +0000
+- [Steve Wozniak cheered after telling students they have AI – actual intelligence](https://www.businessinsider.com/steve-wozniak-apple-ai-graduation-speech-2026-5) — Fri, 22 May 2026 09:04:54 +0000
+- [Cleve Moler has died](https://www.mathworks.com/company/aboutus/founders/clevemoler.html) — Fri, 22 May 2026 02:35:54 +0000
+- [Samsung chip workers will get an average $340k bonus as AI profits soar](https://qz.com/samsung-chip-workers-bonus-ai-profits-052126) — Fri, 22 May 2026 01:30:45 +0000
+
+### BleepingComputer
+
+- [Laravel Lang packages hijacked to deploy credential-stealing malware](https://www.bleepingcomputer.com/news/security/laravel-lang-packages-hijacked-to-deploy-credential-stealing-malware/) — Sat, 23 May 2026 16:48:23 -0400
+- [Italy disrupts CINEMAGOAL piracy app that stole streaming auth codes](https://www.bleepingcomputer.com/news/legal/italy-disrupts-cinemagoal-piracy-app-that-stole-streaming-auth-codes/) — Sat, 23 May 2026 10:23:44 -0400
+
+### The Hacker News
+
+- [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html) — Sat, 23 May 2026 22:05:10 +0530
+- [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html) — Sat, 23 May 2026 21:37:51 +0530
+- [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html) — Sat, 23 May 2026 17:25:35 +0530
+- [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html) — Sat, 23 May 2026 15:21:13 +0530
+- [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html) — Sat, 23 May 2026 13:05:13 +0530
+- [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html) — Sat, 23 May 2026 12:53:48 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [트렌드마이크로 ‘에이펙스 원’ 제로데이 실제 악용…온프레미스 서버 긴급 패치 필요](https://www.dailysecu.com/news/articleView.html?idxno=206893) — 2026-05-23 08:39:11
+- [중국 연계 해커, 통신사 겨냥 리눅스·윈도 악성코드로 장기 침투](https://www.dailysecu.com/news/articleView.html?idxno=206895) — 2026-05-23 09:04:54
+- [시진핑·푸틴, AI·사이버공간·위성 시스템 협력 공식화...사이버 위협 대응 공조도 강화](https://www.dailysecu.com/news/articleView.html?idxno=206897) — 2026-05-23 09:45:00
+- [200만 기기 감염 ‘킴울프’ 봇넷 운영 혐의자 체포](https://www.dailysecu.com/news/articleView.html?idxno=206894) — 2026-05-23 08:53:00
+- [프라이빗테크놀로지, AI 기반 제로트러스트 허브 모델 금융권 실증 추진](https://www.dailysecu.com/news/articleView.html?idxno=206889) — 2026-05-23 07:59:43
+- [독일 대학병원 환자정보 대규모 유출…민간보험 청구업체 해킹이 불러온 파장](https://www.dailysecu.com/news/articleView.html?idxno=206896) — 2026-05-23 09:17:18
+- [KISIA, RSAC 2026 현장 인사이트 공유…2027 한국관 운영 방향 논의](https://www.dailysecu.com/news/articleView.html?idxno=206890) — 2026-05-23 08:20:58
+
+### 보안뉴스 > SECURITY
+
+- [사이버 위협에 지갑 여는 중소기업... 하지만 여전히 사후 대응에 머물러](http://www.boannews.com/media/view.asp?idx=143785&kind=&sub_kind=) — Sat, 23 May 2026 16:37:00 +0900
+- [다크웹 브로커들의 악질적인 개인정보 ‘재포장 사기’ 기승](http://www.boannews.com/media/view.asp?idx=143784&kind=&sub_kind=) — Sat, 23 May 2026 09:11:00 +0900
