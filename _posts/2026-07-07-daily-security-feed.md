@@ -83,3 +83,85 @@ published: true
 - [北 ‘폴린라이더’ 캠페인, 개발자 노린 악성 패키지 108개 유포](http://www.boannews.com/media/view.asp?idx=144518&kind=&sub_kind=) — Mon, 6 Jul 2026 17:00:00 +0900
 - [KISIA, 보안 스타트업 투자 활성화 나서](http://www.boannews.com/media/view.asp?idx=144517&kind=&sub_kind=) — Mon, 6 Jul 2026 15:20:00 +0900
 - [[이슈칼럼] 점·선·면, 지속가능한 보안 운영의 새로운 프레임워크](http://www.boannews.com/media/view.asp?idx=144514&kind=&sub_kind=) — Mon, 6 Jul 2026 14:55:00 +0900
+
+## Security Feed Digest (2026-07-07)
+
+### Hacker News: Best
+
+- [Every new car sold in the European Union must include a driver monitoring camera](https://allaboutcookies.org/eu-mandatory-distracted-driver-system) — Tue, 07 Jul 2026 20:50:46 +0000
+- [30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format](https://30papers.com/) — Tue, 07 Jul 2026 15:58:13 +0000
+- [Microsoft fire idTech team at Id software](https://gamefromscratch.com/microsoft-fire-idtech-team-at-id-software/) — Tue, 07 Jul 2026 15:33:20 +0000
+- [Chat Control passed first round in EU Parliament](https://www.heise.de/en/news/Showdown-in-Strasbourg-The-unexpected-return-of-Chat-Control-1-0-11356680.html) — Tue, 07 Jul 2026 15:16:15 +0000
+- [Amazon without the knockoffs](https://knockoff.shopping/) — Tue, 07 Jul 2026 15:13:01 +0000
+- [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) — Tue, 07 Jul 2026 14:23:15 +0000
+- [Dua Lipa opens library for banned and censored books in Portugal](https://www.euronews.com/culture/2026/06/29/dua-lipa-opens-library-for-banned-and-censored-books-in-portugal) — Tue, 07 Jul 2026 12:50:40 +0000
+- [98% isn't much](https://whynothugo.nl/journal/2026/07/03/98-isnt-very-much/) — Tue, 07 Jul 2026 12:45:14 +0000
+- [A better way to tie gym shorts (or any drawstring) [video]](https://www.youtube.com/watch?v=3R0Lp86GEBk) — Tue, 07 Jul 2026 12:45:06 +0000
+- [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) — Tue, 07 Jul 2026 12:38:35 +0000
+- [Top researchers leave USA for the Netherlands (in Dutch)](https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland) — Tue, 07 Jul 2026 10:47:33 +0000
+- [Microsoft Can Track Users via a Windows Device ID](https://www.pcmag.com/news/a-hackers-arrest-reveals-microsoft-can-track-users-via-a-windows-device) — Tue, 07 Jul 2026 08:54:03 +0000
+- [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) — Tue, 07 Jul 2026 00:14:21 +0000
+- [Small AI Models Gain Traction In places with unreliable networks](https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals) — Mon, 06 Jul 2026 23:59:54 +0000
+- [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) — Mon, 06 Jul 2026 23:06:31 +0000
+- [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) — Mon, 06 Jul 2026 23:00:24 +0000
+- [Learning to code is still worthwhile](https://stevekrouse.com/learn-to-code) — Mon, 06 Jul 2026 20:59:54 +0000
+- [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) — Mon, 06 Jul 2026 20:14:55 +0000
+
+### BleepingComputer
+
+- [Accenture confirms breach after hacker offers stolen data for sale](https://www.bleepingcomputer.com/news/security/accenture-confirms-breach-after-hacker-offers-stolen-data-for-sale/) — Tue, 07 Jul 2026 18:06:07 -0400
+- [Chinese hackers develop LONGLEASH malware to expand ORB network](https://www.bleepingcomputer.com/news/security/chinese-hackers-develop-longleash-malware-to-expand-orb-network/) — Tue, 07 Jul 2026 14:52:19 -0400
+- [Hidden backdoor in Tenda router firmware grants admin access](https://www.bleepingcomputer.com/news/security/hidden-backdoor-in-tenda-router-firmware-grants-admin-access/) — Tue, 07 Jul 2026 13:27:22 -0400
+- [Spain arrests suspected member of pro-Russian hacktivist groups](https://www.bleepingcomputer.com/news/security/spain-arrests-suspected-member-of-pro-russian-hacktivist-groups/) — Tue, 07 Jul 2026 11:21:21 -0400
+- [The GitHub Actions Attack Pattern Your CI Security Scanners Miss](https://www.bleepingcomputer.com/news/security/the-github-actions-attack-pattern-your-ci-security-scanners-miss/) — Tue, 07 Jul 2026 10:01:11 -0400
+- [Webinar tomorrow: Why modern email attacks require a new approach to defense](https://www.bleepingcomputer.com/news/security/webinar-tomorrow-why-modern-email-attacks-require-a-new-approach-to-defense/) — Tue, 07 Jul 2026 08:12:20 -0400
+- [New Januscape Linux flaw allows VM escape on Intel, AMD devices](https://www.bleepingcomputer.com/news/linux/new-januscape-linux-kernel-flaw-allows-vm-escape-on-intel-amd-devices/) — Tue, 07 Jul 2026 08:06:09 -0400
+- [Microsoft to enable Windows settings backup by default for orgs](https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/) — Tue, 07 Jul 2026 05:41:19 -0400
+- [BeyondTrust warns of critical flaws in remote access software](https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/) — Tue, 07 Jul 2026 04:12:10 -0400
+- [Microsoft testing new Cloud Rebuild Windows 11 recovery feature](https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/) — Tue, 07 Jul 2026 03:37:38 -0400
+
+### Darkreading
+
+- [Big Brand Jobs Scam Targets Marketing Pros' Google Accounts](https://www.darkreading.com/cyberattacks-data-breaches/big-brand-jobs-scam-marketing-pros-google-accounts) — Tue, 07 Jul 2026 21:02:29 GMT
+- [Dialogflow CX 'Rogue Agent' Flaw Enabled AI Chatbot Data Theft](https://www.darkreading.com/application-security/dialogflow-cx-rogue-agent-flaw-enabled-ai-chatbot-data-theft) — Tue, 07 Jul 2026 20:36:43 GMT
+- ['GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows](https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows) — Tue, 07 Jul 2026 15:24:30 GMT
+- ['BusySnake' Infostealer Slithers Into Critical Infrastructure Networks](https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks) — Mon, 06 Jul 2026 21:37:56 GMT
+
+### The Hacker News
+
+- [RedWing MaaS Packages Android Bank Fraud as a Telegram Rental Service](https://thehackernews.com/2026/07/redwing-maas-packages-android-bank.html) — Tue, 07 Jul 2026 22:40:15 +0530
+- [Rogue Agent Flaw Could Have Let Attackers Hijack Google Dialogflow CX Chatbots](https://thehackernews.com/2026/07/rogue-agent-flaw-could-have-let.html) — Tue, 07 Jul 2026 22:07:33 +0530
+- [DEBULL Tooling Abuses Microsoft Device-Code Flow to Target M365 Accounts](https://thehackernews.com/2026/07/debull-tooling-abuses-microsoft-device.html) — Tue, 07 Jul 2026 20:44:14 +0530
+- [Public GitHub Issue Could Trick GitHub Agentic Workflows Into Leaking Private Repo Data](https://thehackernews.com/2026/07/public-github-issue-could-trick-github.html) — Tue, 07 Jul 2026 19:34:50 +0530
+- [Court Filing Reveals Windows Device ID Helped FBI Trace Alleged Scattered Spider Hacker](https://thehackernews.com/2026/07/court-filing-reveals-windows-device-id.html) — Tue, 07 Jul 2026 18:57:20 +0530
+- [Writer AI Flaw Could Let Agent Previews Leak Session Tokens Across Tenants](https://thehackernews.com/2026/07/writer-ai-flaw-could-let-agent-previews.html) — Tue, 07 Jul 2026 18:57:09 +0530
+- [What Changes When Your Software Supply Chain Includes AI Writing Your Code?](https://thehackernews.com/2026/07/what-changes-when-your-software-supply.html) — Tue, 07 Jul 2026 17:00:00 +0530
+- [Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities](https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html) — Tue, 07 Jul 2026 14:40:51 +0530
+- [CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware](https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html) — Tue, 07 Jul 2026 12:10:47 +0530
+- [BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA](https://thehackernews.com/2026/07/beyondtrust-patches-critical-auth.html) — Tue, 07 Jul 2026 10:46:51 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [리눅스 KVM 16년 된 취약점 공개…가상머신 하나로 서버 전체 멈출 수 있다](https://www.dailysecu.com/news/articleView.html?idxno=207475) — 2026-07-07 09:47:49
+- [우리은행 고객정보 1만7551건 유출은 해킹 아닌 외주 개발 과정의 관리 부실](https://www.dailysecu.com/news/articleView.html?idxno=207480) — 2026-07-07 12:54:52
+- [어도비 콜드퓨전 치명적 취약점 공개 직후 공격…CVE-2026-48282 긴급 패치 필요](https://www.dailysecu.com/news/articleView.html?idxno=207479) — 2026-07-07 12:46:36
+- [엔키화이트햇, 내부침투 자동화 솔루션 ‘OFFen RED’ 출시…“탐지가 아닌 실제 공격 가능성 입증”](https://www.dailysecu.com/news/articleView.html?idxno=207476) — 2026-07-07 09:57:21
+- [마에스트로 포렌식, 최신 macOS 26·애플 실리콘 M5 지원 ‘위즈덤 컬렉터’ 출시](https://www.dailysecu.com/news/articleView.html?idxno=207473) — 2026-07-07 09:23:54
+- [라온시큐어, ‘옴니원 디지털 ID’ GS인증 1등급 획득…국가 모바일 신분증 기술 품질 공인](https://www.dailysecu.com/news/articleView.html?idxno=207472) — 2026-07-07 09:18:23
+- [“마케팅 직무 면접 제안” 믿었다가 계정 탈취…어도비·넷플릭스·오픈AI 등 30여 곳 사칭](https://www.dailysecu.com/news/articleView.html?idxno=207494) — 2026-07-07 20:31:46
+- [KISA-LG유플러스, 음성 스팸 대응 강화 위한 업무협약 체결](https://www.dailysecu.com/news/articleView.html?idxno=207488) — 2026-07-07 17:02:56
+- [데일리시큐, 사이버보안부터 AI 보안까지…‘KCSCON 2026·AIS 2026’ 하반기 최대 보안행사 잇따라 개최](https://www.dailysecu.com/news/articleView.html?idxno=207482) — 2026-07-07 13:32:41
+- [AI가 실패 원인 분석해 공격 방법 스스로 수정...첫 자율형 랜섬웨어 ‘제이드퍼퍼’ 포착](https://www.dailysecu.com/news/articleView.html?idxno=207495) — 2026-07-07 20:46:54
+
+### 보안뉴스 > SECURITY
+
+- [[ISEC 2026 미리보기] 엔피코어, 차세대 XDR 플랫폼 ‘InspectorX’-랜섬웨어 솔루션 ‘RansomZ’ 소개](http://www.boannews.com/media/view.asp?idx=144527&kind=&sub_kind=) — Wed, 8 Jul 2026 08:52:00 +0900
+- [[ISEC 2026 미리보기] 소프트플로우, 차세대 통합 취약점·공급망 보안 플랫폼 ‘Integrix’ 공개](http://www.boannews.com/media/view.asp?idx=144523&kind=&sub_kind=) — Wed, 8 Jul 2026 08:41:00 +0900
+- [[속담으로 배우는 100가지 보안 습관 57] 세 살 버릇 여든까지 간다(7)-해외 로그인 차단 꼭 해야 하는 이유](http://www.boannews.com/media/view.asp?idx=143644&kind=&sub_kind=) — Wed, 8 Jul 2026 08:30:00 +0900
+- [시중 은행이 선택한 ‘테이텀 CNAPP’, 조달청 등록으로 공공 확산 박차](http://www.boannews.com/media/view.asp?idx=144548&kind=&sub_kind=) — Tue, 7 Jul 2026 19:32:00 +0900
+- [개인정보위, 제3기 ‘가명정보 전문가 풀’ 위촉](http://www.boannews.com/media/view.asp?idx=144547&kind=&sub_kind=) — Tue, 7 Jul 2026 17:11:00 +0900
+- [[CISO 코리아 2026] 이광원 iM뱅크 CISO “‘섀도우 AI’ 통제가 은행권 생존 가른다”](http://www.boannews.com/media/view.asp?idx=144544&kind=&sub_kind=) — Tue, 7 Jul 2026 16:03:00 +0900
+- [[CISO 코리아 2026] 보안 용어 대신 ‘리스크’ 기반 ‘비즈니스 번역’ 필요해](http://www.boannews.com/media/view.asp?idx=144543&kind=&sub_kind=) — Tue, 7 Jul 2026 15:30:00 +0900
+- [래브라도랩스, 공급망 보안 솔루션 ‘래브라도 SCA’ 조달 등록](http://www.boannews.com/media/view.asp?idx=144542&kind=&sub_kind=) — Tue, 7 Jul 2026 15:00:00 +0900
+- [[CISO 코리아 2026] “AI 시대, 패치속도·서비스 리스크간 균형 잡는 ‘성숙도’가 경쟁력”](http://www.boannews.com/media/view.asp?idx=144541&kind=&sub_kind=) — Tue, 7 Jul 2026 14:44:00 +0900
+- [KISA-엘지유플러스, 음성스팸 대응 협력 강화](http://www.boannews.com/media/view.asp?idx=144537&kind=&sub_kind=) — Tue, 7 Jul 2026 14:08:00 +0900
