@@ -93,3 +93,90 @@ published: true
 - [[ISEC 2026 미리보기] 위드네트웍스 CTEM 기반 자산·취약점 통합관리 플랫폼 ‘withVTM’ 선보여](http://www.boannews.com/media/view.asp?idx=144557&kind=&sub_kind=) — Thu, 9 Jul 2026 16:02:00 +0900
 - [[김정덕의 인간중심보안-13] 한국형 보안문화 진단 모델… 3단계 K-SCT 프레임워크](http://www.boannews.com/media/view.asp?idx=144609&kind=&sub_kind=) — Thu, 9 Jul 2026 15:58:00 +0900
 - [아카마이, 삼성생명에 ‘가디코어 세그멘테이션’ 구축... 제로트러스트 지원](http://www.boannews.com/media/view.asp?idx=144602&kind=&sub_kind=) — Thu, 9 Jul 2026 15:20:00 +0900
+
+## Security Feed Digest (2026-07-10)
+
+### Hacker News: Best
+
+- [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) — Fri, 10 Jul 2026 18:29:19 +0000
+- [New York City to to ban deceptive subscription practices](https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban) — Fri, 10 Jul 2026 18:26:24 +0000
+- [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) — Fri, 10 Jul 2026 15:59:53 +0000
+- [Write code like a human will maintain it](https://unstack.io/write-code-like-a-human-will-maintain-it) — Fri, 10 Jul 2026 13:33:00 +0000
+- [Late Bronze Age Collapse](https://acoup.blog/2026/01/30/collections-the-late-bronze-age-collapse-a-very-brief-introduction/) — Fri, 10 Jul 2026 11:59:55 +0000
+- [EU Commission: addictive design Instagram and Facebook in breach of the DSA](https://ec.europa.eu/commission/presscorner/home/en) — Fri, 10 Jul 2026 11:00:15 +0000
+- [Good Tools Are Invisible](https://www.gingerbill.org/article/2026/07/10/good-tools-are-invisible/) — Fri, 10 Jul 2026 10:32:41 +0000
+- [AI-generated videos to maximally drive a target brain region](https://nevo-project.epfl.ch/) — Fri, 10 Jul 2026 07:39:11 +0000
+- [Why American ambulance rides are so expensive](https://davidoks.blog/p/why-american-ambulance-rides-are) — Thu, 09 Jul 2026 22:15:56 +0000
+- [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) — Thu, 09 Jul 2026 17:17:16 +0000
+- [AI content is everywhere on social media, especially LinkedIn](https://www.pangram.com/blog/ai-in-your-feed) — Thu, 09 Jul 2026 15:50:09 +0000
+- [A possible future for Damn Interesting](https://www.damninteresting.com/a-possible-future/) — Thu, 09 Jul 2026 15:25:25 +0000
+- [No leap second will be introduced at the end of December 2026](https://datacenter.iers.org/data/latestVersion/bulletinC.txt) — Thu, 09 Jul 2026 14:16:34 +0000
+- [US seeks cheaper hunter-killer drones after Iran destroys $1B worth of Reapers](https://arstechnica.com/gadgets/2026/07/us-seeks-cheaper-hunter-killer-drones-after-iran-destroys-1b-worth-of-reapers/) — Thu, 09 Jul 2026 13:29:31 +0000
+- [The glass backbone: Why the Army's logistics will break in the next war](https://mwi.westpoint.edu/the-glass-backbone-why-the-armys-logistics-will-break-in-the-next-war/) — Thu, 09 Jul 2026 13:24:43 +0000
+- [A road to Lisp: Why Lisp](https://scotto.me/blog/2026-07-09-why-lisp/) — Thu, 09 Jul 2026 13:06:04 +0000
+- [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) — Thu, 09 Jul 2026 08:05:04 +0000
+- [Postgres rewritten in Rust, now passing 100% of the Postgres regression tests](https://github.com/malisper/pgrust) — Thu, 09 Jul 2026 06:18:19 +0000
+
+### BleepingComputer
+
+- [New U-Boot flaws could enable stealthy firmware attacks](https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/) — Fri, 10 Jul 2026 17:59:02 -0400
+- [Ryuk ransomware member pleads guilty in the US, faces 15 years in prison](https://www.bleepingcomputer.com/news/security/ryuk-ransomware-member-pleads-guilty-in-the-us-faces-15-years-in-prison/) — Fri, 10 Jul 2026 13:46:10 -0400
+- [Police suspects Dutch hackers were involved in Odido breach](https://www.bleepingcomputer.com/news/security/police-suspects-dutch-hackers-were-involved-in-odido-breach/) — Fri, 10 Jul 2026 12:37:01 -0400
+- [Progress urges ShareFile admins to shut down servers over “credible” threat](https://www.bleepingcomputer.com/news/security/progress-urges-sharefile-customers-to-shut-down-servers-over-credible-threat/) — Fri, 10 Jul 2026 12:26:10 -0400
+- [Hackers exploit critical auth bypass in Gitea Docker image](https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-auth-bypass-in-gitea-docker-image/) — Fri, 10 Jul 2026 11:48:38 -0400
+- [Money launderer accused of stealing seized crypto while in prison](https://www.bleepingcomputer.com/news/security/money-launderer-accused-of-stealing-seized-crypto-while-in-prison/) — Fri, 10 Jul 2026 11:30:19 -0400
+- [The Replicant in Your Directory: AI Agents and the Identity Security Gap](https://www.bleepingcomputer.com/news/security/the-replicant-in-your-directory-ai-agents-and-the-identity-security-gap/) — Fri, 10 Jul 2026 10:00:10 -0400
+- [Zimbra urges customers to patch critical web client XSS flaw](https://www.bleepingcomputer.com/news/security/zimbra-urges-customers-to-patch-critical-web-client-xss-flaw/) — Fri, 10 Jul 2026 07:47:38 -0400
+- [Former ransomware negotiator gets 4 years for BlackCat attacks](https://www.bleepingcomputer.com/news/security/us-ransomware-negotiator-gets-4-years-in-prison-for-blackcat-attacks/) — Fri, 10 Jul 2026 04:17:52 -0400
+
+### Darkreading
+
+- [Jen Ellis: Connecting Cyber Community With Political Machinery](https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery) — Fri, 10 Jul 2026 19:08:04 GMT
+- [Cybercriminals Flock to Healthcare Businesses as Attacks Surge](https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge) — Fri, 10 Jul 2026 16:51:34 GMT
+- [Fresh ATM Crypto Software Bugs: Jackpot or Bust?](https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust) — Fri, 10 Jul 2026 14:00:00 GMT
+- [More Countries Jump on the Social Media 'Ban Wagon'](https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon) — Fri, 10 Jul 2026 13:50:24 GMT
+- [AI Coding: Do Security Risks Outweigh Productivity Gains?](https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains) — Fri, 10 Jul 2026 13:00:00 GMT
+- [AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready](https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready) — Thu, 09 Jul 2026 19:16:02 GMT
+- [As Global Conflicts Go Digital, Businesses Need Wartime Game Plans](https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans) — Thu, 09 Jul 2026 14:31:20 GMT
+
+### The Hacker News
+
+- [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html) — Fri, 10 Jul 2026 22:00:00 +0530
+- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html) — Fri, 10 Jul 2026 21:59:00 +0530
+- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html) — Fri, 10 Jul 2026 21:27:14 +0530
+- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html) — Fri, 10 Jul 2026 20:21:49 +0530
+- [Researcher Details WhatsApp-to-Host Attack Chain Using Three OpenClaw Flaws](https://thehackernews.com/2026/07/researcher-details-whatsapp-to-host.html) — Fri, 10 Jul 2026 19:49:50 +0530
+- [New MODBEACON RAT Uses gRPC Streaming for Encrypted C2 Traffic](https://thehackernews.com/2026/07/new-modbeacon-rat-uses-grpc-streaming.html) — Fri, 10 Jul 2026 18:45:23 +0530
+- [Unpatched XRING Flaw in XQUIC Lets Remote Clients Crash HTTP/3 Servers](https://thehackernews.com/2026/07/unpatched-xring-flaw-in-xquic-lets.html) — Fri, 10 Jul 2026 17:17:43 +0530
+- [From 17,000 to 1.1 Million Assets: How Lumen Technologies Rebuilt Exposure Management at Scale](https://thehackernews.com/2026/07/from-17000-to-11-million-assets-how.html) — Fri, 10 Jul 2026 17:09:40 +0530
+- [Exposed Hacker Server Reveals WP-SHELLSTORM Backdooring Thousands of WordPress Sites](https://thehackernews.com/2026/07/exposed-hacker-server-reveals-wp.html) — Fri, 10 Jul 2026 17:00:02 +0530
+- [Study of 281 Free Android VPN Apps Finds Traffic Leaks, Unencrypted Data, and Tracking](https://thehackernews.com/2026/07/study-of-281-free-android-vpn-apps.html) — Fri, 10 Jul 2026 16:26:23 +0530
+- [Hackers Use Fake Microsoft Entra Passkey Enrollment to Gain Microsoft 365 Access](https://thehackernews.com/2026/07/hackers-use-fake-microsoft-entra.html) — Fri, 10 Jul 2026 16:00:20 +0530
+- [Attackers Exploit 'Ill Bloom' Vulnerability to Drain Over $5 Million From Cryptocurrency Wallets](https://thehackernews.com/2026/07/attackers-exploit-ill-bloom.html) — Fri, 10 Jul 2026 14:30:05 +0530
+- [Ransomware Negotiator Gets 70 Months in Prison for Aiding BlackCat Attacks](https://thehackernews.com/2026/07/ransomware-negotiator-gets-70-months-in.html) — Fri, 10 Jul 2026 13:40:12 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [KISA, ‘공급망 보안 인사이트 데이’ 개최…기업 공급망 보안 모델 구축 본격화](https://www.dailysecu.com/news/articleView.html?idxno=207550) — 2026-07-10 09:21:39
+- [CISA, 앤트로픽 ‘미토스’로 미국 정부 코드 취약점 찾는다](https://www.dailysecu.com/news/articleView.html?idxno=207557) — 2026-07-10 14:33:57
+- [금융위원장 “AI 보안체계 구축·망분리 전면 개선 추진”…금융권 정보보호 강화 강조](https://www.dailysecu.com/news/articleView.html?idxno=207551) — 2026-07-10 10:35:10
+- [한국범죄학회, AI 수사 책임성과 의료정보 보안 논의…AI스페라 등 전문가 토론](https://www.dailysecu.com/news/articleView.html?idxno=207549) — 2026-07-10 09:12:33
+- [넷스카우트, 네트워크 가시성 시장 3년 연속 리더…AI·DPI 경쟁력 입증](https://www.dailysecu.com/news/articleView.html?idxno=207554) — 2026-07-10 10:41:25
+- [프라이빗테크놀로지, ‘프라이빗에이아이’로 사명 변경…AI 운영 플랫폼 기업 도약](https://www.dailysecu.com/news/articleView.html?idxno=207553) — 2026-07-10 10:38:43
+- [레드햇-IBM, 오픈소스 리스크 완화하는 AI 기반 보안 서비스 라이트웰 출시](https://www.dailysecu.com/news/articleView.html?idxno=207556) — 2026-07-10 14:47:18
+- [펜타시큐리티, 'EBISION 2026'에서 산업 선도기업상 수상](https://www.dailysecu.com/news/articleView.html?idxno=207555) — 2026-07-10 14:10:58
+- [안랩, 무역안보의 날 기념식서 산업통상자원부 장관 표창 수상](https://www.dailysecu.com/news/articleView.html?idxno=207558) — 2026-07-10 15:02:49
+- [인성정보, 무역안보의 날 기념식서 산업통상자원부 장관 표창 수상](https://www.dailysecu.com/news/articleView.html?idxno=207559) — 2026-07-10 15:16:49
+
+### 보안뉴스 > SECURITY
+
+- [[2026 개인정보보호 우수사례-4] 한수원, 개인정보 보호수준 평가 100점 만점... 1442개 기관 중 전체 1위](http://www.boannews.com/media/view.asp?idx=144493&kind=&sub_kind=) — Fri, 10 Jul 2026 15:45:00 +0900
+- [한-베트남 개인정보보호 협력을 위한 전문가 교류·협력 세미나 개최](http://www.boannews.com/media/view.asp?idx=144632&kind=&sub_kind=) — Fri, 10 Jul 2026 15:14:00 +0900
+- [펜타시큐리티, 국제 심포지엄서 ‘산업 선도기업상’ 수상](http://www.boannews.com/media/view.asp?idx=144630&kind=&sub_kind=) — Fri, 10 Jul 2026 15:01:00 +0900
+- [개인정보 온라인 불법유통 차단하는 청년들... 모니터링단 발대식](http://www.boannews.com/media/view.asp?idx=144629&kind=&sub_kind=) — Fri, 10 Jul 2026 14:34:00 +0900
+- [[ISEC 2026 미리보기] 써트코리아, 디지서트의 ‘지능형 신뢰(Intelligent Trust)’ 플랫폼 DigiCert](http://www.boannews.com/media/view.asp?idx=144625&kind=&sub_kind=) — Fri, 10 Jul 2026 14:15:00 +0900
+- [[ISEC 2026 미리보기] 시스코 보안 3종으로 완성하는 제로트러스트... ISEC 2026서 만난다](http://www.boannews.com/media/view.asp?idx=144626&kind=&sub_kind=) — Fri, 10 Jul 2026 14:13:00 +0900
+- [KISA, 공급망 보안 모델 구축 과제 방향 공유](http://www.boannews.com/media/view.asp?idx=144618&kind=&sub_kind=) — Fri, 10 Jul 2026 14:05:00 +0900
+- [비욘드트러스트, 비인간 및 AI ID 권한 관리 위한 ‘NHI 거버넌스’ 출시](http://www.boannews.com/media/view.asp?idx=144627&kind=&sub_kind=) — Fri, 10 Jul 2026 13:40:00 +0900
+- [“AI 무기화, 통합 가시성이 해법... 데이터독, 자율 보안 비전 공유](http://www.boannews.com/media/view.asp?idx=144623&kind=&sub_kind=) — Fri, 10 Jul 2026 11:49:00 +0900
+- [이억원 금융위원장 “AI 보안 갖춘 금융사, 망분리 전면해제 곧 구체화”](http://www.boannews.com/media/view.asp?idx=144622&kind=&sub_kind=) — Fri, 10 Jul 2026 11:15:00 +0900
