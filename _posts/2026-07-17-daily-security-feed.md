@@ -89,3 +89,71 @@ published: true
 - [이스온, 국토교통부 ‘디지털도로 AI 신기술 지원사업’ 협약 체결](http://www.boannews.com/media/view.asp?idx=144741&kind=&sub_kind=) — Thu, 16 Jul 2026 17:49:00 +0900
 - [데이터독, 가트너 ‘옵저버빌리티’ 부문 6년 연속 리더 선정](http://www.boannews.com/media/view.asp?idx=144738&kind=&sub_kind=) — Thu, 16 Jul 2026 17:04:00 +0900
 - [지란지교소프트, 차세대 엔드포인트 AI 보안 신기술 공개](http://www.boannews.com/media/view.asp?idx=144739&kind=&sub_kind=) — Thu, 16 Jul 2026 17:02:00 +0900
+
+## Security Feed Digest (2026-07-17)
+
+### Hacker News: Best
+
+- [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) — Fri, 17 Jul 2026 16:57:27 +0000
+- [The state of open source AI](https://stateofopensource.ai/) — Fri, 17 Jul 2026 14:31:10 +0000
+- [Kimi K3, and what we can still learn from the pelican benchmark](https://simonwillison.net/2026/Jul/16/kimi-k3/) — Fri, 17 Jul 2026 14:21:51 +0000
+- [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) — Fri, 17 Jul 2026 14:06:13 +0000
+- [Apple targets dozens of OpenAI employees with legal letters](https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166) — Fri, 17 Jul 2026 12:02:39 +0000
+- [Evidence of inconsistencies in evaluation process and selection of winners](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423) — Fri, 17 Jul 2026 11:30:00 +0000
+- [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) — Fri, 17 Jul 2026 09:42:05 +0000
+- [EEG shows brain can simultaneous encode two speech streams](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876) — Fri, 17 Jul 2026 05:51:10 +0000
+- [Pebble Mega Update – July 2026](https://repebble.com/blog/pebble-mega-update-july-2026) — Fri, 17 Jul 2026 03:53:38 +0000
+- [How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues](https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/) — Fri, 17 Jul 2026 03:48:26 +0000
+- [The human-in-the-loop is tired](https://pydantic.dev/articles/the-human-in-the-loop-is-tired) — Fri, 17 Jul 2026 00:21:09 +0000
+- [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) — Thu, 16 Jul 2026 20:18:15 +0000
+- [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) — Thu, 16 Jul 2026 20:03:23 +0000
+- [Detecting LLM-Generated Texts with “Classical” Machine Learning](https://blog.lyc8503.net/en/post/llm-classifier/) — Thu, 16 Jul 2026 16:41:37 +0000
+- [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) — Thu, 16 Jul 2026 16:08:13 +0000
+- [Immersive Linear Algebra Book with Interactive Figures (2015)](https://immersivemath.com/ila/) — Thu, 16 Jul 2026 15:32:23 +0000
+- [The LLM Critics Are Right. I Use LLMs Anyway](https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/) — Thu, 16 Jul 2026 11:59:01 +0000
+
+### BleepingComputer
+
+- [Abbott probes two cyber incidents amid extortion claims](https://www.bleepingcomputer.com/news/security/abbott-laboratories-probes-two-cyber-incidents-amid-extortion-claims/) — Fri, 17 Jul 2026 16:45:52 -0400
+- [HollowByte DDoS flaw bloats OpenSSL server memory with 11-byte payload](https://www.bleepingcomputer.com/news/security/hollowbyte-ddos-flaw-bloats-openssl-server-memory-with-11-byte-payload/) — Fri, 17 Jul 2026 13:56:21 -0400
+- [Ernst & Young discloses data breach after support system hack](https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/) — Fri, 17 Jul 2026 10:55:28 -0400
+- [Inside the Search for "Clean" Residential Proxies for Carding](https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/) — Fri, 17 Jul 2026 10:00:10 -0400
+- [New Windows LegacyHive zero-day gives hackers admin privileges](https://www.bleepingcomputer.com/news/security/new-windows-legacyhive-zero-day-exploit-grants-hackers-admin-access/) — Fri, 17 Jul 2026 07:05:30 -0400
+- [Windows Server 2022 reach end of mainstream support in 90 days](https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reach-end-of-mainstream-support-in-90-days/) — Fri, 17 Jul 2026 05:10:15 -0400
+- [US charges two over laundering $43 million from investment fraud](https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/) — Fri, 17 Jul 2026 04:13:37 -0400
+- [CISA urges immediate action on actively exploited Fortinet flaws](https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/) — Fri, 17 Jul 2026 03:03:33 -0400
+
+### Darkreading
+
+- [Inc Ransomware Exploits SonicWall SMA Zero-Days](https://www.darkreading.com/vulnerabilities-threats/inc-ransomware-exploits-sonicwall-sma-zero-days) — Fri, 17 Jul 2026 20:01:13 GMT
+- [The Real AI Threat Is Blind Trust](https://www.darkreading.com/application-security/real-ai-threat-blind-trust) — Fri, 17 Jul 2026 16:43:13 GMT
+- [Gold Eagle Clearinghouse Targets Security Gap, but How Is Unclear](https://www.darkreading.com/vulnerabilities-threats/gold-eagle-clearinghouse-targets-security-gap) — Fri, 17 Jul 2026 13:00:00 GMT
+- [Google Bets 'Agentic Defense' Strategy Can Outpace Attackers](https://www.darkreading.com/cloud-security/google-bets-agentic-defense-strategy-outpace-attackers) — Fri, 17 Jul 2026 11:50:25 GMT
+- [Agentic AI: Taming the Unpredictable](https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions) — Thu, 16 Jul 2026 20:57:47 GMT
+
+### The Hacker News
+
+- [New wp2shell WordPress Core Flaw Lets Unauthenticated Attackers Run Code](https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html) — Sat, 18 Jul 2026 02:50:10 +0530
+- [OpenSSL HollowByte Flaw Could Freeze Server Memory with 11-Byte TLS Requests](https://thehackernews.com/2026/07/openssl-hollowbyte-flaw-could-freeze.html) — Sat, 18 Jul 2026 01:50:53 +0530
+- [Seven Malicious Vite npm Packages Use Blockchain C2 to Deliver a RAT](https://thehackernews.com/2026/07/seven-malicious-vite-npm-packages-use.html) — Sat, 18 Jul 2026 00:24:51 +0530
+- [New NadMesh Botnet Hunts Exposed AI Services for Cloud Keys and Kubernetes Tokens](https://thehackernews.com/2026/07/new-nadmesh-botnet-hunts-exposed-ai.html) — Fri, 17 Jul 2026 22:42:23 +0530
+- [GoldenEyeDog Subgroup Linked to DigiCert Breach and Code-Signing Certificate Theft](https://thehackernews.com/2026/07/goldeneyedog-subgroup-linked-to.html) — Fri, 17 Jul 2026 22:09:16 +0530
+- [Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images](https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html) — Fri, 17 Jul 2026 19:18:56 +0530
+- [E.U. Orders Google to Open Android Mic, Camera and Screen to Rival AI Assistants](https://thehackernews.com/2026/07/eu-orders-google-to-open-android-mic.html) — Fri, 17 Jul 2026 17:14:41 +0530
+- [The Race to Field Military Autonomy Is On, Can Trusted Information Infrastructure Keep Pace?](https://thehackernews.com/2026/07/the-race-to-field-military-autonomy-is.html) — Fri, 17 Jul 2026 17:00:00 +0530
+- [Armenia Detains Russian Tourist on U.S. Warrant for REvil Hacker, Lawyers Say Wrong Man](https://thehackernews.com/2026/07/armenia-detains-russian-tourist-on-us.html) — Fri, 17 Jul 2026 16:23:31 +0530
+- [ACR Stealer Uses ClickFix Lures to Steal Browser Tokens and Microsoft 365 Files](https://thehackernews.com/2026/07/acr-stealer-uses-clickfix-lures-to.html) — Fri, 17 Jul 2026 14:26:39 +0530
+- [New GoSerpent Malware Targets Southeast Asian Governments and Diplomats for Espionage](https://thehackernews.com/2026/07/new-goserpent-malware-targets-southeast.html) — Fri, 17 Jul 2026 14:16:45 +0530
+- [CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV](https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html) — Fri, 17 Jul 2026 12:12:23 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [이재명 대통령 “개인정보 보호비용보다 제재가 훨씬 커야”…9월 징벌적 과징금 시행](https://www.dailysecu.com/news/articleView.html?idxno=207656) — 2026-07-17 11:58:36
+- [F5, NGINX 치명적 취약점 긴급 패치…원격 코드 실행 가능](https://www.dailysecu.com/news/articleView.html?idxno=207657) — 2026-07-17 17:15:10
+
+### 보안뉴스 > SECURITY
+
+- [[속담으로 배우는 100가지 보안 습관 66] 아는 길도 물어가라(6)-보이스피싱 의심되면 꼭 해야 할 행동](http://www.boannews.com/media/view.asp?idx=144218&kind=&sub_kind=) — Sat, 18 Jul 2026 08:32:00 +0900
+- [[ISEC 2026 미리보기] 에스투더블유, AI 기반 데이터 인텔리전스 기술력으로 안보 위협 대응 지원](http://www.boannews.com/media/view.asp?idx=144634&kind=&sub_kind=) — Sat, 18 Jul 2026 08:28:00 +0900
+- [[ISEC 2026 미리보기] Hash 기반 실시간 멀웨어 탐지 및 대응 솔루션 ‘TA-STR’, 보안 사각지대 해소](http://www.boannews.com/media/view.asp?idx=144628&kind=&sub_kind=) — Sat, 18 Jul 2026 08:24:00 +0900
+- [“섀도우 AI 음지에서 양지로”... 쏘카의 자율형 보안 거버넌스 사례](http://www.boannews.com/media/view.asp?idx=144707&kind=&sub_kind=) — Fri, 17 Jul 2026 09:02:00 +0900
