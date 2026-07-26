@@ -55,3 +55,47 @@ published: true
 - [우분투 스냅-컨파인 취약점 발견... 일반 사용자도 루트 권한 획득 위험](http://www.boannews.com/media/view.asp?idx=144838&kind=&sub_kind=) — Sat, 25 Jul 2026 12:58:00 +0900
 - [AI가 통제 벗어나면 정부가 중단... 美 하원 ‘킬스위치법’ 발의](http://www.boannews.com/media/view.asp?idx=144836&kind=&sub_kind=) — Sat, 25 Jul 2026 11:14:00 +0900
 - [李 대통령 만난 앤트로픽 CEO... “AI 보안 등 안전 협력 구체화”](http://www.boannews.com/media/view.asp?idx=144835&kind=&sub_kind=) — Sat, 25 Jul 2026 10:45:00 +0900
+
+## Security Feed Digest (2026-07-26)
+
+### Hacker News: Best
+
+- [The Strongest El Niño Ever](https://www.theclimatebrink.com/p/the-strongest-el-nino-ever) — Sun, 26 Jul 2026 18:35:36 +0000
+- [London Gatwick has launched a robotic airport parking service](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/) — Sun, 26 Jul 2026 14:40:27 +0000
+- [Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake](https://www.wsj.com/tech/google-discloses-94-1-billion-in-spacex-stock-marking-6-stake-91655d7c) — Sun, 26 Jul 2026 12:43:21 +0000
+- [Third Drone Shot Down in Three Days in Romanian Territory](https://english.mapn.ro/) — Sun, 26 Jul 2026 12:00:42 +0000
+- [Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy](https://swag.htmx.org/en-cad/products/htmx-4-the-game) — Sun, 26 Jul 2026 12:00:11 +0000
+- [Kill The Cookie Banner](https://killthecookiebanner.eu/) — Sun, 26 Jul 2026 11:53:17 +0000
+- [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0) — Sun, 26 Jul 2026 09:01:39 +0000
+- [GrapheneOS protections against data extraction from locked devices](https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices) — Sun, 26 Jul 2026 05:57:22 +0000
+- [JetZero](https://www.jetzero.aero) — Sun, 26 Jul 2026 02:55:50 +0000
+- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/) — Sun, 26 Jul 2026 02:35:43 +0000
+- [Show HN: I mapped every US golf course](https://golfcoursebrowser.com/) — Sun, 26 Jul 2026 02:22:26 +0000
+- [Inflect-Micro-v2: complete voice in 9.36M parameters](https://huggingface.co/owensong/Inflect-Micro-v2) — Sun, 26 Jul 2026 00:36:30 +0000
+- [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) — Sat, 25 Jul 2026 23:32:50 +0000
+- [What is happening to jobs? Separating AI hype from reality](https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality) — Sat, 25 Jul 2026 22:51:10 +0000
+- [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) — Sat, 25 Jul 2026 21:48:22 +0000
+- [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) — Sat, 25 Jul 2026 20:43:11 +0000
+- [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) — Sat, 25 Jul 2026 20:42:35 +0000
+- [Did they ghost you?](https://didtheyghostyou.com/) — Sat, 25 Jul 2026 20:18:03 +0000
+- [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) — Sat, 25 Jul 2026 19:44:39 +0000
+- [Running a 28.9M parameter LLM on an $8 microcontroller](https://github.com/slvDev/esp32-ai) — Sat, 25 Jul 2026 18:59:50 +0000
+- [Show HN: Brolly, a plain-text weather forecast site](https://brolly.sh/forecast/RWFP2qW8) — Sat, 25 Jul 2026 17:34:34 +0000
+- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) — Sat, 25 Jul 2026 13:33:49 +0000
+- [Android may soon restrict on-device ADB](https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/) — Sat, 25 Jul 2026 06:57:14 +0000
+
+### BleepingComputer
+
+- [GitHub, PyPI add time-based defenses against supply chain attacks](https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/) — Sun, 26 Jul 2026 10:13:39 -0400
+
+### 데일리시큐 - 최근인기기사
+
+- [랜섬웨어 조직 클롭, 제조, 자동차, 항공우주 분야 설계도면 탈취 노린 사이버공격 시작](https://www.dailysecu.com/news/articleView.html?idxno=207779) — 2026-07-26 09:05:44
+
+### 보안뉴스 > SECURITY
+
+- [개인정보 유출 조사에 평균 8개월... “중대 사건에 인력 집중”](http://www.boannews.com/media/view.asp?idx=144843&kind=&sub_kind=) — Sun, 26 Jul 2026 16:49:00 +0900
+- [전기차 충천 플랫폼 채비, 개인정보 30만여건 유출 신고... “이메일 악용 피싱 주의”](http://www.boannews.com/media/view.asp?idx=144842&kind=&sub_kind=) — Sun, 26 Jul 2026 16:33:00 +0900
+- [[국방보안 칼럼] 디펜스테크 생태계, 다음 관문은 ‘AI 신뢰성’](http://www.boannews.com/media/view.asp?idx=144837&kind=&sub_kind=) — Sun, 26 Jul 2026 09:34:00 +0900
+- [[속담으로 배우는 100가지 보안 습관 73] 등잔 밑이 어둡다(3)-USB 함부로 꽂으면 생기는 일](http://www.boannews.com/media/view.asp?idx=144225&kind=&sub_kind=) — Sun, 26 Jul 2026 09:32:00 +0900
+- [[ISEC 2026 미리보기] 로그프레소, 통합 보안 플랫폼 위 에이전틱 SOC 구현 ‘소나 5.0’ 공개](http://www.boannews.com/media/view.asp?idx=144839&kind=&sub_kind=) — Sun, 26 Jul 2026 09:31:00 +0900
