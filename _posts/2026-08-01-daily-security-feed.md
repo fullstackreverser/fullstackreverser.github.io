@@ -56,3 +56,69 @@ published: true
 - [소비자분쟁조정위원회, 개인정보 유출 쿠팡에 “1인당 10만원 배상하라”](http://www.boannews.com/media/view.asp?idx=144967&kind=&sub_kind=) — Fri, 31 Jul 2026 16:25:00 +0900
 - [한화비전, 2세대 AI 주차유도 카메라 ‘MGC-F9020LI’ 출시하며 스마트 파킹 시장 정조준](http://www.boannews.com/media/view.asp?idx=144961&kind=&sub_kind=) — Fri, 31 Jul 2026 16:04:00 +0900
 - [[카드뉴스] “SNS 3초 영상으로 계좌 털렸다”… AI 음성 복제에 뚫린 ‘성문 인증’의 경고](http://www.boannews.com/media/view.asp?idx=144966&kind=&sub_kind=) — Fri, 31 Jul 2026 15:24:00 +0900
+
+## Security Feed Digest (2026-08-01)
+
+### Hacker News: Best
+
+- [Google has abandoned Google News?](https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now) — Sat, 01 Aug 2026 19:39:43 +0000
+- [How Google helped destroy adoption of RSS feeds (2023)](https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds) — Sat, 01 Aug 2026 18:07:07 +0000
+- [Cursor removed cost information from the usage page and CSV export](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153) — Sat, 01 Aug 2026 15:25:21 +0000
+- [A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention](https://www.michaelgeist.ca/2026/07/a-surveillance-treaty-in-disguise-the-trouble-with-canadas-quiet-decision-to-sign-the-un-cybercrime-convention/) — Sat, 01 Aug 2026 14:19:51 +0000
+- [RipGrep musl binaries occasionally segfault during very-large searches](https://github.com/BurntSushi/ripgrep/issues/3494) — Sat, 01 Aug 2026 12:34:25 +0000
+- [RamenHaus](https://ramen.haus/) — Sat, 01 Aug 2026 08:48:58 +0000
+- [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/) — Sat, 01 Aug 2026 07:52:10 +0000
+- [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) — Sat, 01 Aug 2026 07:37:44 +0000
+- [BMW Spider-Man in-car advertising](https://consumerrights.wiki/w/BMW_Spider-Man_in-car_advertising) — Sat, 01 Aug 2026 03:25:12 +0000
+- [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/) — Sat, 01 Aug 2026 02:45:09 +0000
+- [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/) — Sat, 01 Aug 2026 00:25:00 +0000
+- [Tailscale didn't stop the Hugging Face intrusion](https://tailscale.com/blog/hugging-face-intrusion) — Fri, 31 Jul 2026 19:03:45 +0000
+- [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm) — Fri, 31 Jul 2026 18:04:58 +0000
+- [Severance](https://lcamtuf.substack.com/p/severance) — Fri, 31 Jul 2026 17:15:09 +0000
+- [Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio](https://www.jeffgeerling.com/blog/2026/getting-25g-ethernet-mac-thunderbolt/) — Fri, 31 Jul 2026 16:15:31 +0000
+- [Big Food vs. the People](https://www.lighthousereports.com/investigation/big-food-vs-the-people/) — Fri, 31 Jul 2026 16:04:32 +0000
+- [Elevators](https://john.fun/elevators) — Fri, 31 Jul 2026 15:17:28 +0000
+- [The most official water costs $120k a gallon](https://signoregalilei.com/2026/07/26/the-most-official-water-costs-120000-a-gallon/) — Fri, 31 Jul 2026 15:00:15 +0000
+- [Run Kimi K3 using 29 GB of RAM at 0.50 tok/s](https://github.com/sqliteai/waste) — Fri, 31 Jul 2026 14:12:38 +0000
+- [The End of an Era](https://hughhowey.com/the-end-of-an-era/) — Fri, 31 Jul 2026 11:51:46 +0000
+- [DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis](https://artificialanalysis.ai/models/deepseek-v4-flash) — Fri, 31 Jul 2026 07:59:11 +0000
+- [Google fixed more Chrome bugs in June than over the past two years, thanks to AI](https://blog.google/security/chrome-stronger-with-every-update/) — Fri, 31 Jul 2026 07:29:22 +0000
+- [DeepSeek-V4-Flash Update](https://api-docs.deepseek.com/updates/) — Fri, 31 Jul 2026 06:08:36 +0000
+- [JEP 401: Value Objects (Preview) merged to OpenJDK master](https://github.com/openjdk/jdk/pull/31120) — Fri, 31 Jul 2026 04:38:19 +0000
+- [The session you cannot take with you](https://earendil.com/posts/session-portability/) — Fri, 31 Jul 2026 03:47:59 +0000
+- [The Religion of Speed](https://graybeard.ing/the-religion-of-speed/) — Thu, 30 Jul 2026 23:43:22 +0000
+- [Premier league bans gambling sponsors](https://www.footyheadlines.com/2646571793/betting-ban-takes-effect-no-more-gambling-sponsors-in-the-premier-league.html) — Thu, 30 Jul 2026 23:40:59 +0000
+- [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) — Thu, 30 Jul 2026 23:22:16 +0000
+- [Investigating three real-world incidents in our cybersecurity evaluations](https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals) — Thu, 30 Jul 2026 23:00:51 +0000
+- [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) — Thu, 30 Jul 2026 22:33:11 +0000
+
+### BleepingComputer
+
+- [Rails patches critical Active Storage flaw with RCE potential](https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/) — Sat, 01 Aug 2026 10:20:30 -0400
+
+### The Hacker News
+
+- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html) — Sat, 01 Aug 2026 22:47:22 +0530
+- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html) — Sat, 01 Aug 2026 14:33:07 +0530
+- [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html) — Sat, 01 Aug 2026 12:42:42 +0530
+- [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html) — Sat, 01 Aug 2026 11:59:05 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [레일스 긴급 패치…이미지 업로드만으로 서버 장악 가능한 치명적 취약점 발견](https://www.dailysecu.com/news/articleView.html?idxno=207874) — 2026-08-02 04:45:16
+- [바이오 제약사 암젠, 클라우드 해킹으로 환자 의료정보·핵심 기밀 유출](https://www.dailysecu.com/news/articleView.html?idxno=207875) — 2026-08-02 04:57:31
+- [콜드카드 치명적 난수 결함 악용…41분 만에 비트코인 1,082BTC 탈취](https://www.dailysecu.com/news/articleView.html?idxno=207876) — 2026-08-02 06:16:56
+- [어도비, 최고 위험도 10.0 취약점 긴급 패치…원격 코드 실행 위험 차단](https://www.dailysecu.com/news/articleView.html?idxno=207877) — 2026-08-02 08:30:13
+
+### 보안뉴스 > SECURITY
+
+- [[ISEC 2026 미리보기] KX넥스지, 통합 보안 플랫폼 ‘NeXForce ACRON’ 선뵈](http://www.boannews.com/media/view.asp?idx=144930&kind=&sub_kind=) — Sat, 1 Aug 2026 16:41:00 +0900
+- [[ISEC 2026 미리보기] 체크포인트, 자율형 AI 공격 잡는 ‘AEV’ 솔루션 공개](http://www.boannews.com/media/view.asp?idx=144927&kind=&sub_kind=) — Sat, 1 Aug 2026 16:37:00 +0900
+- [[ISEC 2026] 공공 부문 AI·클라우드 방어막 재정비... ‘전국 공무원 사이버보안 콘퍼런스’ 개최](http://www.boannews.com/media/view.asp?idx=144972&kind=&sub_kind=) — Sat, 1 Aug 2026 16:34:00 +0900
+- [[ISEC 2026] 진화하는 해양 위협, 선박 보안 컴플라이언스의 실체적 해법 찾는다](http://www.boannews.com/media/view.asp?idx=144926&kind=&sub_kind=) — Sat, 1 Aug 2026 16:27:00 +0900
+- [[2026 드론 제품 & 솔루션 리포트] 드론, 영상보안과 만나 세상(世上)을 이롭게(惠益)하다](http://www.boannews.com/media/view.asp?idx=144895&kind=&sub_kind=) — Sat, 1 Aug 2026 10:13:00 +0900
+- [2026년 8월, 물리&사이버보안 기업이 찾는 인재는 누구?](http://www.boannews.com/media/view.asp?idx=144871&kind=&sub_kind=) — Sat, 1 Aug 2026 10:07:00 +0900
+- [[ISEC 2026 미리보기] 진네트웍스, 차세대 인증서 수명주기 관리(CLM) 제시](http://www.boannews.com/media/view.asp?idx=144924&kind=&sub_kind=) — Sat, 1 Aug 2026 10:04:00 +0900
+- [[ISEC 2026 미리보기] 지란지교 3사, AI 에이전트 결합한 통합 ‘자율보안’ 청사진 제시](http://www.boannews.com/media/view.asp?idx=144923&kind=&sub_kind=) — Sat, 1 Aug 2026 10:01:00 +0900
+- [[속담으로 배우는 100가지 보안 습관 79] 등잔 밑이 어둡다(9)-IoT 기기 기본 비밀번호가 위험한 이유](http://www.boannews.com/media/view.asp?idx=144231&kind=&sub_kind=) — Sat, 1 Aug 2026 09:59:00 +0900
+- [[배종찬의 보안 빅데이터] AI 시대 주목받는 핵인싸는 해커 아닌 ‘해커톤’](http://www.boannews.com/media/view.asp?idx=144931&kind=&sub_kind=) — Sat, 1 Aug 2026 09:52:00 +0900
