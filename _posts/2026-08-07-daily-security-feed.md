@@ -95,3 +95,82 @@ published: true
 - [서울시, 200억 투입해 AI 행정 지원 데이터센터 전면 고도화](http://www.boannews.com/media/view.asp?idx=145053&kind=&sub_kind=) — Thu, 6 Aug 2026 17:16:00 +0900
 - [블랙햇 USA 2026... 보안 업계, ‘AI 자율 방어’ 솔루션 대거 선봬](http://www.boannews.com/media/view.asp?idx=145036&kind=&sub_kind=) — Thu, 6 Aug 2026 17:11:00 +0900
 - [비트코인 하드웨어 지갑 제조사 코인카이트, 8860만달러 탈취 사고에 재고 전량 폐기](http://www.boannews.com/media/view.asp?idx=145051&kind=&sub_kind=) — Thu, 6 Aug 2026 17:08:00 +0900
+
+## Security Feed Digest (2026-08-07)
+
+### Hacker News: Best
+
+- [App Store Rejection of the Week: Dark Hours](https://daringfireball.net/2026/08/app_store_rejection_of_the_week_dark_hours) — Fri, 07 Aug 2026 18:59:08 +0000
+- [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) — Fri, 07 Aug 2026 18:01:30 +0000
+- [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) — Fri, 07 Aug 2026 17:56:20 +0000
+- [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) — Fri, 07 Aug 2026 17:36:30 +0000
+- [Iceberg Collapses and Flips over in Ilulissat, Greenland (July 25, 2026) [video]](https://www.youtube.com/watch?v=UufMqwyO7pY) — Fri, 07 Aug 2026 14:55:08 +0000
+- [A year of fighting scrapers on my 1.5 million-page website](https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/) — Fri, 07 Aug 2026 14:51:57 +0000
+- [U.S. economy lost 23,000 jobs in July, a sudden reversal](https://www.nbcnews.com/business/economy/july-2026-jobs-report-rcna591138) — Fri, 07 Aug 2026 12:42:58 +0000
+- [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) — Fri, 07 Aug 2026 12:42:27 +0000
+- [Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD](https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/) — Fri, 07 Aug 2026 11:00:35 +0000
+- [US strikes $1.2B deal to pay German firm to halt offshore wind projects](https://www.bbc.com/news/articles/c1e1vg0gjl5o) — Fri, 07 Aug 2026 10:28:55 +0000
+- [2027 memory capacity is reportedly sold out](https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out) — Fri, 07 Aug 2026 07:58:24 +0000
+- [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta) — Fri, 07 Aug 2026 00:06:28 +0000
+- [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) — Thu, 06 Aug 2026 21:52:16 +0000
+- [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) — Thu, 06 Aug 2026 21:18:32 +0000
+- [Quake – 30th Anniversary Update](https://slayersclub.bethesda.net/en-US/news/quake-30th-anniversary-update) — Thu, 06 Aug 2026 20:21:19 +0000
+- [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) — Thu, 06 Aug 2026 19:14:21 +0000
+- [My phone detects going on a run as “someone snatching my phone and running off”](https://mastodon.gamedev.place/@rygorous/117047697255584965) — Thu, 06 Aug 2026 18:26:08 +0000
+- [Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users](https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/) — Thu, 06 Aug 2026 17:02:04 +0000
+- [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) — Thu, 06 Aug 2026 17:01:33 +0000
+- [Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks](https://provenmetal.com) — Thu, 06 Aug 2026 15:59:15 +0000
+- [Software development with AI is starting to feel like cooking steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) — Thu, 06 Aug 2026 15:30:48 +0000
+
+### BleepingComputer
+
+- [Metabase SQLi zero-day exploited in customer data-theft attacks](https://www.bleepingcomputer.com/news/security/framework-tally-disclose-metabase-data-theft-attacks/) — Fri, 07 Aug 2026 16:14:46 -0400
+- [Unlimited Technology Systems breach impacts 3.8 million people](https://www.bleepingcomputer.com/news/security/unlimited-technology-systems-breach-impacts-38-million-people/) — Fri, 07 Aug 2026 15:30:41 -0400
+- [Levi Strauss & Co. says hackers stole corporate data in cyberattack](https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/) — Fri, 07 Aug 2026 11:48:20 -0400
+- [Real emails, hijacked payments: Two H1 2026 attack chains](https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/) — Fri, 07 Aug 2026 10:00:10 -0400
+- [North Carolina Ports confirms cyberattack disrupting operations](https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/) — Fri, 07 Aug 2026 09:34:40 -0400
+
+### Darkreading
+
+- [AI-Generated Patches Fail Half the Time](https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time) — Fri, 07 Aug 2026 16:47:43 GMT
+- [Déjà Vu? Meta's AI Escapes Testing Lab in Hacking Joyride](https://www.darkreading.com/cyberattacks-data-breaches/meta-ai-escapes-lab-hacking-joyride) — Thu, 06 Aug 2026 20:39:30 GMT
+
+### The Hacker News
+
+- [Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer](https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html) — Sat, 08 Aug 2026 00:18:17 +0530
+- [ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets](https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html) — Fri, 07 Aug 2026 23:59:08 +0530
+- [UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data](https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html) — Fri, 07 Aug 2026 23:46:13 +0530
+- [New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP](https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html) — Fri, 07 Aug 2026 18:26:23 +0530
+- [Growing Up The Hard Way](https://thehackernews.com/2026/08/growing-up-hard-way.html) — Fri, 07 Aug 2026 17:25:26 +0530
+- [18-Year-Old Linux SCTP Flaw Could Let Local Users Gain Root and Escape Containers](https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html) — Fri, 07 Aug 2026 16:40:33 +0530
+- [New NatJack Attacks Hijack TCP Sessions and Spoof DNS by Manipulating NAT Tables](https://thehackernews.com/2026/08/new-natjack-attacks-hijack-tcp-sessions.html) — Fri, 07 Aug 2026 16:28:38 +0530
+- [Microsoft 365 AitM Phishing Hijacks Accounts to Collect Payroll and Finance Emails](https://thehackernews.com/2026/08/microsoft-365-aitm-phishing-hijacks.html) — Fri, 07 Aug 2026 16:08:27 +0530
+- [AI-Assisted HTTP Terminator Finds Novel HTTP Desync Techniques and Apache Zero-Day](https://thehackernews.com/2026/08/ai-assisted-http-terminator-finds-novel.html) — Fri, 07 Aug 2026 15:39:54 +0530
+- [Malware Can Abuse Windows Hello for Business Keys for Persistent Entra ID Access](https://thehackernews.com/2026/08/malware-can-abuse-windows-hello-for.html) — Fri, 07 Aug 2026 14:22:11 +0530
+- [Claude Code and Gemini CLI Flaws Let a GitHub Issue Reach CI Workflow Secrets](https://thehackernews.com/2026/08/claude-code-and-gemini-cli-flaws-let.html) — Fri, 07 Aug 2026 13:48:35 +0530
+- [TeamPCP Linked To Redis Attacks Dating Back To 2020 And Later Supply Chain Campaign](https://thehackernews.com/2026/08/teampcp-linked-to-redis-attacks-dating.html) — Fri, 07 Aug 2026 12:20:05 +0530
+- [Cisco Patches 12 SD-WAN and IOS XE Flaws, Including Three 9.9 CVSS Score Bugs](https://thehackernews.com/2026/08/cisco-patches-12-sd-wan-and-ios-xe.html) — Thu, 06 Aug 2026 22:43:15 +0530
+
+### 데일리시큐 - 최근인기기사
+
+- [[블랙햇 USA 2026] “취약점 발견 속도, 보고 가능한 속도의 10배…인간 연구자 역할 더 중요”](https://www.dailysecu.com/news/articleView.html?idxno=207951) — 2026-08-07 03:34:26
+- [[블랙햇 USA 2026] “AI는 주말도 없다”…분절된 보안 체계, AI 에이전트 시대 한계 드러내](https://www.dailysecu.com/news/articleView.html?idxno=207952) — 2026-08-07 04:27:42
+- [[정보보안 연재소설-로그아웃되지 않는 밤] 제17화 '망 사이의 벽'](https://www.dailysecu.com/news/articleView.html?idxno=207953) — 2026-08-07 04:35:23
+- [개인정보위, AI 시대 개인정보 제도 전면 재검토…국민 정책제안 접수](https://www.dailysecu.com/news/articleView.html?idxno=207954) — 2026-08-07 07:10:22
+- [울산정보보호지원센터-케이에이알-TUV 라인란드, 자동차 사이버보안 관리체계 인증 지원 위한 협약 체결](https://www.dailysecu.com/news/articleView.html?idxno=207957) — 2026-08-07 14:52:27
+- [기가몬-스플렁크, 분산 데이터 활용 효율 높이는 통합 검색 솔루션 발표](https://www.dailysecu.com/news/articleView.html?idxno=207956) — 2026-08-07 14:25:00
+- [[Black Hat USA 2026 결산] AI가 바꾼 사이버보안…“완벽한 방어보다 침해돼도 버티는 보안 필요”](https://www.dailysecu.com/news/articleView.html?idxno=207960) — 2026-08-08 01:59:31
+- [[블랙햇 USA 2026 현장] 해킹 도구 직접 돌리고 드론까지 공격…‘체험형 보안 행사’로 개최](https://www.dailysecu.com/news/articleView.html?idxno=207959) — 2026-08-08 01:52:02
+
+### 보안뉴스 > SECURITY
+
+- [비에스아이시스템·남양주시, 방범·환경 통합형 CCTV 운영 확대](http://www.boannews.com/media/view.asp?idx=145074&kind=&sub_kind=) — Fri, 7 Aug 2026 21:47:00 +0900
+- [명지대 ‘드론봇·대드론 센터’ 출범... 산학군 협력 안보 네트워크 강화](http://www.boannews.com/media/view.asp?idx=145072&kind=&sub_kind=) — Fri, 7 Aug 2026 17:29:00 +0900
+- [[카드뉴스] 무료 선물 링크의 덫… 방화벽 뚫고 들어오는 사이버 공격 실체](http://www.boannews.com/media/view.asp?idx=145071&kind=&sub_kind=) — Fri, 7 Aug 2026 17:19:00 +0900
+- [[DEF CON 34] 이상중 KISA 원장 “K-해커들 든든하게 뒷받침할 것”](http://www.boannews.com/media/view.asp?idx=145069&kind=&sub_kind=) — Fri, 7 Aug 2026 15:55:00 +0900
+- [[ISEC 2026] 대미를 장식할 컨퍼런스 주제는 무엇?](http://www.boannews.com/media/view.asp?idx=144988&kind=&sub_kind=) — Fri, 7 Aug 2026 13:56:00 +0900
+- [앤트로픽·오픈AI, 사이버보안 테스트서 가짜 신원 만들어 공격 시도](http://www.boannews.com/media/view.asp?idx=145066&kind=&sub_kind=) — Fri, 7 Aug 2026 13:54:00 +0900
+- [오마다, AI 네트워크 설계 플랫폼 ‘Omada 디자인 허브’ 무료 웨비나 개최](http://www.boannews.com/media/view.asp?idx=145065&kind=&sub_kind=) — Fri, 7 Aug 2026 13:52:00 +0900
+- [이스트시큐리티-퓨리오사AI ‘맞손’... NPU 품은 K-보안 솔루션 뜬다](http://www.boannews.com/media/view.asp?idx=145064&kind=&sub_kind=) — Fri, 7 Aug 2026 13:51:00 +0900
+- [“조사도 안 끝났는데 보고부터?” 불투명한 팩트에 발목 잡힌 보안 거버넌스](http://www.boannews.com/media/view.asp?idx=145062&kind=&sub_kind=) — Fri, 7 Aug 2026 13:48:00 +0900
+- [[이슈칼럼] 한국 AI 기본법이 던진 새로운 과제: 기업은 자신이 관리해야 할 데이터를 제대로 보고 있는가](http://www.boannews.com/media/view.asp?idx=145063&kind=&sub_kind=) — Fri, 7 Aug 2026 11:18:00 +0900
